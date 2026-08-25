@@ -1,0 +1,2427 @@
+{
+  "schemaVersion": 2,
+  "entries": [
+    {
+      "path": "minigame-assets/a-qing-order-chibi.png",
+      "remotePath": "assets/a-qing-order-chibi.png",
+      "sha256": "6554b150e7e0adb75e6a560264cded325b771323b799f2b8d918b1fee4ca7620",
+      "bytes": 30538,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/a-qing-order-chibi.png"
+    },
+    {
+      "path": "minigame-assets/audio-build-complete.wav",
+      "remotePath": "assets/audio-build-complete.wav",
+      "sha256": "8cd16d57afc0f4038235ba62c7d5f21003c58ac2e579ad37217d282d00f7cc4c",
+      "bytes": 16802,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-build-hammer.wav",
+      "remotePath": "assets/audio-build-hammer.wav",
+      "sha256": "5650089e149971ba3629fe4294fe0ff1e99d6fef3676ce3492ea9e14b1dffc27",
+      "bytes": 4452,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-build-place.wav",
+      "remotePath": "assets/audio-build-place.wav",
+      "sha256": "82e1b220d43a11b356d844e92b92246680affd88d76c3c4f0d64b9502e186ae1",
+      "bytes": 6218,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-build-start.wav",
+      "remotePath": "assets/audio-build-start.wav",
+      "sha256": "4d18d425110b68f2b07ab5648ddfefbf203d2504d5c5c5f03ca37346c8d108a6",
+      "bytes": 7540,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-day.wav",
+      "remotePath": "assets/audio-day.wav",
+      "sha256": "cb90a69281fcdb7945ef25039f9437433e975dc74d2a178c7c9b90f5a0c38c32",
+      "bytes": 45908,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-deliver.wav",
+      "remotePath": "assets/audio-deliver.wav",
+      "sha256": "1c448efba9c99b54797972c0bb7609de93ad169b40afccad0daf05c35899f676",
+      "bytes": 40616,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-ending.wav",
+      "remotePath": "assets/audio-ending.wav",
+      "sha256": "93d0c93185091e653abcf8ca71f53f12c9b0c1c149b2f7abc45d57ed13172f0d",
+      "bytes": 72368,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-grass-clear.wav",
+      "remotePath": "assets/audio-grass-clear.wav",
+      "sha256": "1aac15e6b5e91553b0d0b39dded12402ac2f7df0a6d54797217535792dde3e14",
+      "bytes": 31796,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-merge.wav",
+      "remotePath": "assets/audio-merge.wav",
+      "sha256": "73db21306ce6b98a6639226825a3b95711b895ccc1b71bc96972bd8b33163af8",
+      "bytes": 24740,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-spawn.wav",
+      "remotePath": "assets/audio-spawn.wav",
+      "sha256": "de02a94e400bf431315403af507a0fca81a45d15ac30a736551d11d9fe43fc99",
+      "bytes": 13274,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/aunt-luo-order.png",
+      "remotePath": "assets/aunt-luo-order.png",
+      "sha256": "61280caea2586c91299f84ad8cb0750abf4c396bc57cb69451ae59eea9572f60",
+      "bytes": 104537,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/aunt-luo-order.png"
+    },
+    {
+      "path": "minigame-assets/button-chore-action-bluekey-v1.png",
+      "remotePath": "assets/button-chore-action-bluekey-v1.png",
+      "sha256": "4f98e708b59eb8346b2be2d0a6704cca208ab2db79555c9f9c5ea4f9eccfe61d",
+      "bytes": 81599,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/button-chore-action-bluekey-v1.png"
+    },
+    {
+      "path": "minigame-assets/button-chore-close-bluekey-v1.png",
+      "remotePath": "assets/button-chore-close-bluekey-v1.png",
+      "sha256": "745a136e93f33c0b11b212bc9704728584433527cdc4c85ce4bb9036318e7ef7",
+      "bytes": 35120,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/button-chore-close-bluekey-v1.png"
+    },
+    {
+      "path": "minigame-assets/button-continue-dialogue-wjl-ref.png",
+      "remotePath": "assets/button-continue-dialogue-wjl-ref.png",
+      "sha256": "0d92eadcdedf5c9ef9fb9efc9c6b0c6b0c63972a6738d716e5b29751f4eef631",
+      "bytes": 58514,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/button-continue-dialogue-wjl-ref.png"
+    },
+    {
+      "path": "minigame-assets/chest-energy-1.png",
+      "remotePath": "assets/chest-energy-1.png",
+      "sha256": "3d10db0568a9f95a05a845200f066cadb8d0cb2c7143a71c9e933a42e369833b",
+      "bytes": 238478,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/chest-energy-1.png"
+    },
+    {
+      "path": "minigame-assets/chest-green-1.png",
+      "remotePath": "assets/chest-green-1.png",
+      "sha256": "d6c6c24c4a59aacddd4512242e31b7fabca110996d3192f6a3a0fba32e53b857",
+      "bytes": 240084,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/chest-green-1.png"
+    },
+    {
+      "path": "minigame-assets/chest-green-2.png",
+      "remotePath": "assets/chest-green-2.png",
+      "sha256": "11c173a6a6dabbbb61307b1ea408c084fee70435816aa77c80f2cb3371cba94b",
+      "bytes": 345773,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/chest-green-2.png"
+    },
+    {
+      "path": "minigame-assets/chest-red-1.png",
+      "remotePath": "assets/chest-red-1.png",
+      "sha256": "05c72cdbb991a8bfd1a48cfdf9efcbd203a79f0779090a7229f5adaecedec25f",
+      "bytes": 295332,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/chest-red-1.png"
+    },
+    {
+      "path": "minigame-assets/chest-red-2.png",
+      "remotePath": "assets/chest-red-2.png",
+      "sha256": "2c7284a9c11d763f73ccf65455c0ea12d30351367bbf8c31f54994434c94df9a",
+      "bytes": 292025,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/chest-red-2.png"
+    },
+    {
+      "path": "minigame-assets/danfang-door-left.png",
+      "remotePath": "assets/danfang-door-left.png",
+      "sha256": "0db89df18cb947c704fdffc09483d976eeae3291028c0a5e43f272d697b0966e",
+      "bytes": 1216595,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/danfang-door-left.png"
+    },
+    {
+      "path": "minigame-assets/danfang-door-right.png",
+      "remotePath": "assets/danfang-door-right.png",
+      "sha256": "ac20e6ab0fa73f861bb3ecdb9541e45ed2ae38da0bdaf81120cbd74c4ec7081f",
+      "bytes": 1314155,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/danfang-door-right.png"
+    },
+    {
+      "path": "minigame-assets/inn-hinged-door-pair.png",
+      "remotePath": "assets/inn-hinged-door-pair.png",
+      "sha256": "a10b0baf80f375cfe77c9353d6432ac17760b13cccc69d24d56cee6014cb961b",
+      "bytes": 121619,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/inn-hinged-door-pair.png"
+    },
+    {
+      "path": "minigame-assets/inn-storage-cabinet.png",
+      "remotePath": "assets/inn-storage-cabinet.png",
+      "sha256": "7619c05b844105d9dd34239ecf66db94226358e9f187ab9cee2ccb702093d1d5",
+      "bytes": 27641,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/inn-storage-cabinet.png"
+    },
+    {
+      "path": "minigame-assets/inn-switch-to-front-desk.png",
+      "remotePath": "assets/inn-switch-to-front-desk.png",
+      "sha256": "1821938aff7844da8e7b496df6b5843f8717ee108922ac1f40ffc9b1ab0fe9e1",
+      "bytes": 227712,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/inn-switch-to-front-desk.png"
+    },
+    {
+      "path": "minigame-assets/inn-switch-to-warehouse.png",
+      "remotePath": "assets/inn-switch-to-warehouse.png",
+      "sha256": "7741825b594eb087698ac62c17cddeff8469c01163ddd3b24d541c96262f1fcb",
+      "bytes": 315441,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/inn-switch-to-warehouse.png"
+    },
+    {
+      "path": "minigame-assets/inn-warehouse-backdrop.png",
+      "remotePath": "assets/inn-warehouse-backdrop.png",
+      "sha256": "831cb99d1b3126f2d2c75afd0c83db21e6da6e4a83366a67fbfa51dd74af7eea",
+      "bytes": 3057008,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/inn-warehouse-backdrop.png"
+    },
+    {
+      "path": "minigame-assets/item-clothes-1.png",
+      "remotePath": "assets/item-clothes-1.png",
+      "sha256": "d5818f7c5c6378a25d3ed8c64a7eff0d80059b986debeadee8ddfe33fdd3de5b",
+      "bytes": 48329,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-clothes-1.png"
+    },
+    {
+      "path": "minigame-assets/item-clothes-10.png",
+      "remotePath": "assets/item-clothes-10.png",
+      "sha256": "c761173b7a89d3dfd6f46dc9215066b7812ff1f557618accdf547387083c185f",
+      "bytes": 28189,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-clothes-10.png"
+    },
+    {
+      "path": "minigame-assets/item-clothes-11.png",
+      "remotePath": "assets/item-clothes-11.png",
+      "sha256": "02c21f541756dc7f6dd8aea8e981a14c7be687b468c3ec6fcbdd05f35e88a8ef",
+      "bytes": 34793,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-clothes-11.png"
+    },
+    {
+      "path": "minigame-assets/item-clothes-2.png",
+      "remotePath": "assets/item-clothes-2.png",
+      "sha256": "2e667e293e01112dd307f44dff4ba5d12dfa30627597d3440270a7b99582504b",
+      "bytes": 19286,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-clothes-2.png"
+    },
+    {
+      "path": "minigame-assets/item-clothes-3.png",
+      "remotePath": "assets/item-clothes-3.png",
+      "sha256": "9d0130b999a3565ea372ab12f1eefe59b1df32da506f5251b35f8ebb639d170b",
+      "bytes": 21894,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-clothes-3.png"
+    },
+    {
+      "path": "minigame-assets/item-clothes-4.png",
+      "remotePath": "assets/item-clothes-4.png",
+      "sha256": "d74de00462551debe4648bc0f7e800a917625ffc7ca2c721f11e8fa30ede84c0",
+      "bytes": 25530,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-clothes-4.png"
+    },
+    {
+      "path": "minigame-assets/item-clothes-5.png",
+      "remotePath": "assets/item-clothes-5.png",
+      "sha256": "b92eba815b2fb1daf8a3f5f2d06dfc323901c165c32c364b8b31076f798427b0",
+      "bytes": 24338,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-clothes-5.png"
+    },
+    {
+      "path": "minigame-assets/item-clothes-6.png",
+      "remotePath": "assets/item-clothes-6.png",
+      "sha256": "3f7bb7a52a6a867d370abf765e72a7dfab15a2f8681f4ab61169fb5d4698dd48",
+      "bytes": 24814,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-clothes-6.png"
+    },
+    {
+      "path": "minigame-assets/item-clothes-7.png",
+      "remotePath": "assets/item-clothes-7.png",
+      "sha256": "ad02568069cb96fb43d8cd3268f86ccf588aca90156ea26cd866238033f8bbac",
+      "bytes": 24108,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-clothes-7.png"
+    },
+    {
+      "path": "minigame-assets/item-clothes-8.png",
+      "remotePath": "assets/item-clothes-8.png",
+      "sha256": "c6b38b8cf5f35243fde20174d7296d6df48201a12fe43a0b5af5dbfeec012c3f",
+      "bytes": 21397,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-clothes-8.png"
+    },
+    {
+      "path": "minigame-assets/item-clothes-9.png",
+      "remotePath": "assets/item-clothes-9.png",
+      "sha256": "7a620c9a2a3e4e62c26a624e18df85d6e9ed51cd5b05be4935b8126b978f1362",
+      "bytes": 27167,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-clothes-9.png"
+    },
+    {
+      "path": "minigame-assets/item-container-1.png",
+      "remotePath": "assets/item-container-1.png",
+      "sha256": "a617b4aae369caa99464f00acf3cf8d81199244dd7b9d6d2ad32861c477743c6",
+      "bytes": 137587,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-container-1.png"
+    },
+    {
+      "path": "minigame-assets/item-container-5.png",
+      "remotePath": "assets/item-container-5.png",
+      "sha256": "1bd772624a220f42766a0a93d86c251cc16a3ced6fc492739f74a43ba3ab9067",
+      "bytes": 122628,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-container-5.png"
+    },
+    {
+      "path": "minigame-assets/item-decoction-1.png",
+      "remotePath": "assets/item-decoction-1.png",
+      "sha256": "58610e92f23763ba45e426675407678a2be5cc3a49465f6d7cf12c6fb535f106",
+      "bytes": 33614,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-decoction-1.png"
+    },
+    {
+      "path": "minigame-assets/item-decoction-10.png",
+      "remotePath": "assets/item-decoction-10.png",
+      "sha256": "b8702de1ceb08a76d1dfe740e5f4b238c1ca24990b94395469e56e194d0871e6",
+      "bytes": 179786,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-decoction-10.png"
+    },
+    {
+      "path": "minigame-assets/item-decoction-2.png",
+      "remotePath": "assets/item-decoction-2.png",
+      "sha256": "5df50e600be5bb190790d33cddba16be7e858b71c2e82a76b21e9873c30b185a",
+      "bytes": 37958,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-decoction-2.png"
+    },
+    {
+      "path": "minigame-assets/item-decoction-3.png",
+      "remotePath": "assets/item-decoction-3.png",
+      "sha256": "d48dc2dcfaeeb207de3b7263b74927a6bbcd18f2b659a252d6316320b3fcbbfa",
+      "bytes": 34996,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-decoction-3.png"
+    },
+    {
+      "path": "minigame-assets/item-decoction-4.png",
+      "remotePath": "assets/item-decoction-4.png",
+      "sha256": "817ac8446fa6c7b4b4bafa850f8c353a75e0c1f0a5ab34253c7a99fc7df0d345",
+      "bytes": 28676,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-decoction-4.png"
+    },
+    {
+      "path": "minigame-assets/item-decoction-5.png",
+      "remotePath": "assets/item-decoction-5.png",
+      "sha256": "d002e1895d5831b516f539ec0978e70021d61f67b83a50b9794bae4abedfdc25",
+      "bytes": 36504,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-decoction-5.png"
+    },
+    {
+      "path": "minigame-assets/item-decoction-6.png",
+      "remotePath": "assets/item-decoction-6.png",
+      "sha256": "71de7525a26fb65dd9ae807b589b0445f21ac1543a138f6e17cd3bd939d07588",
+      "bytes": 35957,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-decoction-6.png"
+    },
+    {
+      "path": "minigame-assets/item-decoction-7.png",
+      "remotePath": "assets/item-decoction-7.png",
+      "sha256": "a3201512f052830f91088ce0aa1f5c964c297a4933a9e7d7557b5ebf18fdbbdb",
+      "bytes": 34237,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-decoction-7.png"
+    },
+    {
+      "path": "minigame-assets/item-decoction-8.png",
+      "remotePath": "assets/item-decoction-8.png",
+      "sha256": "8d11af84863090a72da537f31015eefaefb14c054345af87908d836268f8cdf2",
+      "bytes": 154898,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-decoction-8.png"
+    },
+    {
+      "path": "minigame-assets/item-flower-1.png",
+      "remotePath": "assets/item-flower-1.png",
+      "sha256": "afd94f24bae22fc3d890bb78943c2103cb707dfaea149923a8565107c1a1a845",
+      "bytes": 14622,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-flower-1.png"
+    },
+    {
+      "path": "minigame-assets/item-flower-2.png",
+      "remotePath": "assets/item-flower-2.png",
+      "sha256": "6e512faa7e89f7bbe83d1bd512ec404a7899b24b6293ea5aa50d48978a68ae62",
+      "bytes": 14826,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-flower-2.png"
+    },
+    {
+      "path": "minigame-assets/item-flower-3.png",
+      "remotePath": "assets/item-flower-3.png",
+      "sha256": "4b459db817a59dbac7a26b066633a378bf9580b0e37d7e9960abb7e7808c90ae",
+      "bytes": 24436,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-flower-3.png"
+    },
+    {
+      "path": "minigame-assets/item-flower-4.png",
+      "remotePath": "assets/item-flower-4.png",
+      "sha256": "18cf3845df22d3611515aa988a1224048dc138ee83bd8b674d699d01b01f4439",
+      "bytes": 45039,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-flower-4.png"
+    },
+    {
+      "path": "minigame-assets/item-flower-5.png",
+      "remotePath": "assets/item-flower-5.png",
+      "sha256": "51763c746bf48dbb3a4eeeb24bc41e551a90ab60e3232af29bae67d67651ff03",
+      "bytes": 41894,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-flower-5.png"
+    },
+    {
+      "path": "minigame-assets/item-flower-6.png",
+      "remotePath": "assets/item-flower-6.png",
+      "sha256": "ba28e2f22d43756e78c0281b10a9309552bcfcf90909926e2a79fd75e85f6dcf",
+      "bytes": 44370,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-flower-6.png"
+    },
+    {
+      "path": "minigame-assets/item-flower-7.png",
+      "remotePath": "assets/item-flower-7.png",
+      "sha256": "768861b7870b9337e91e02918b29d20619267e029a6b20b05f555f043ce20e0f",
+      "bytes": 44427,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-flower-7.png"
+    },
+    {
+      "path": "minigame-assets/item-fungus-1.png",
+      "remotePath": "assets/item-fungus-1.png",
+      "sha256": "18a436680ed33519f9b34a4a959cc3ce294883a2f7d9ff7bb2bcac14eb3b0465",
+      "bytes": 32773,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-fungus-1.png"
+    },
+    {
+      "path": "minigame-assets/item-fungus-10.png",
+      "remotePath": "assets/item-fungus-10.png",
+      "sha256": "1c4935578d2a1bd7939ad35bde60039e9dd334aafb635e55669947f258e7282b",
+      "bytes": 41223,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-fungus-10.png"
+    },
+    {
+      "path": "minigame-assets/item-fungus-2.png",
+      "remotePath": "assets/item-fungus-2.png",
+      "sha256": "449d9ed0682c161c87f7ef803aa4107d94fb987a57dc2677c774a92d79559528",
+      "bytes": 31990,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-fungus-2.png"
+    },
+    {
+      "path": "minigame-assets/item-fungus-3.png",
+      "remotePath": "assets/item-fungus-3.png",
+      "sha256": "fc0d9f6e7ff55a68e8d78864dc2e41c362a7ff3b6d39aba902b3d75d845631e5",
+      "bytes": 34749,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-fungus-3.png"
+    },
+    {
+      "path": "minigame-assets/item-fungus-4.png",
+      "remotePath": "assets/item-fungus-4.png",
+      "sha256": "b550624ad32e749cd1b890ea24ec3362f27b83ce9d6cad062f4305656354b975",
+      "bytes": 40905,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-fungus-4.png"
+    },
+    {
+      "path": "minigame-assets/item-fungus-5.png",
+      "remotePath": "assets/item-fungus-5.png",
+      "sha256": "c6cbb87606bea2346405439cdf4f4b3b17ae070ce8443156b8980bb0327acde3",
+      "bytes": 47826,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-fungus-5.png"
+    },
+    {
+      "path": "minigame-assets/item-fungus-6.png",
+      "remotePath": "assets/item-fungus-6.png",
+      "sha256": "328ae70618226ca6ff74135fcceee4cda708de015df22709b3ea7b49948d1d91",
+      "bytes": 55790,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-fungus-6.png"
+    },
+    {
+      "path": "minigame-assets/item-fungus-7.png",
+      "remotePath": "assets/item-fungus-7.png",
+      "sha256": "4171220f97021161de29af9ba94e858c5ddf797693c7ede193c00f27f8a26e74",
+      "bytes": 49941,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-fungus-7.png"
+    },
+    {
+      "path": "minigame-assets/item-fungus-8.png",
+      "remotePath": "assets/item-fungus-8.png",
+      "sha256": "cfc141db7503fa6bb0315814cfad0a7db67b383b3b6ff38ea9f5211e09fe2851",
+      "bytes": 39866,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-fungus-8.png"
+    },
+    {
+      "path": "minigame-assets/item-fungus-9.png",
+      "remotePath": "assets/item-fungus-9.png",
+      "sha256": "864a024879a119448dc1fe9b602b14d9f4a86a5f8e0ec954f50eb726df6b25c5",
+      "bytes": 41489,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-fungus-9.png"
+    },
+    {
+      "path": "minigame-assets/item-leaf-1.png",
+      "remotePath": "assets/item-leaf-1.png",
+      "sha256": "2dfcd2381037d7a1f525b0fdde7d1b968f1ca0a848dade9f934abc2b70ec7b22",
+      "bytes": 28805,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-leaf-1.png"
+    },
+    {
+      "path": "minigame-assets/item-leaf-2.png",
+      "remotePath": "assets/item-leaf-2.png",
+      "sha256": "6e9d64f38ebfc90ef2f92dc586d8931286e926907541b46899510f7ee72daed9",
+      "bytes": 32824,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-leaf-2.png"
+    },
+    {
+      "path": "minigame-assets/item-leaf-3.png",
+      "remotePath": "assets/item-leaf-3.png",
+      "sha256": "bef7e9031199477e5daca40782ad9056fa03936d85195c311e3e713bf1b4a046",
+      "bytes": 35530,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-leaf-3.png"
+    },
+    {
+      "path": "minigame-assets/item-leaf-4.png",
+      "remotePath": "assets/item-leaf-4.png",
+      "sha256": "0dc49e3719be682149b552889fc1920f9f72cd059caf2173533c24a2ef0f7ea4",
+      "bytes": 32561,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-leaf-4.png"
+    },
+    {
+      "path": "minigame-assets/item-leaf-5.png",
+      "remotePath": "assets/item-leaf-5.png",
+      "sha256": "158a19531139a56874925452bc664c9872c4f5f1dc9ec5ca0dc5d5c6589123e9",
+      "bytes": 36424,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-leaf-5.png"
+    },
+    {
+      "path": "minigame-assets/item-mineral-1.png",
+      "remotePath": "assets/item-mineral-1.png",
+      "sha256": "1b9aa38b0b4f8f71337f3a7156bd56badbede5c93165a30f43451809ead02861",
+      "bytes": 27329,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-mineral-1.png"
+    },
+    {
+      "path": "minigame-assets/item-mineral-10.png",
+      "remotePath": "assets/item-mineral-10.png",
+      "sha256": "288c240dca0ba81d76cf57fe809d94e8beedc415ba1df793de40532db8fa7355",
+      "bytes": 30160,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-mineral-10.png"
+    },
+    {
+      "path": "minigame-assets/item-mineral-11.png",
+      "remotePath": "assets/item-mineral-11.png",
+      "sha256": "5b44ad4b62d78f6530eab8a58f99946b11b355e15931b750d7bc3861c855e593",
+      "bytes": 30355,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-mineral-11.png"
+    },
+    {
+      "path": "minigame-assets/item-mineral-12.png",
+      "remotePath": "assets/item-mineral-12.png",
+      "sha256": "44570d0c2c10e99b9b1fbb33b62fd4cab43e10e2f64c3b31d92211679c59ad9d",
+      "bytes": 30855,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-mineral-12.png"
+    },
+    {
+      "path": "minigame-assets/item-mineral-2.png",
+      "remotePath": "assets/item-mineral-2.png",
+      "sha256": "fb687a1ced7802b8630ad0177850d9f206d77755ddf9a26a864630cc6a92178f",
+      "bytes": 20142,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-mineral-2.png"
+    },
+    {
+      "path": "minigame-assets/item-mineral-3.png",
+      "remotePath": "assets/item-mineral-3.png",
+      "sha256": "0c527b6fb30be2b7a83a6338fcfab52d1bc7efd24b1fca537cc1eef882b84bfd",
+      "bytes": 28507,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-mineral-3.png"
+    },
+    {
+      "path": "minigame-assets/item-mineral-4.png",
+      "remotePath": "assets/item-mineral-4.png",
+      "sha256": "2b9f5a6886868d0b3d7068144ed30b15ec08ebd348673d01df38c6b261f451ff",
+      "bytes": 24600,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-mineral-4.png"
+    },
+    {
+      "path": "minigame-assets/item-mineral-5.png",
+      "remotePath": "assets/item-mineral-5.png",
+      "sha256": "0ac5fef01ebbb5aab0e7dd7469672aa60a9a2f8da2cfcd3d85139140fd3b97f8",
+      "bytes": 18431,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-mineral-5.png"
+    },
+    {
+      "path": "minigame-assets/item-mineral-6.png",
+      "remotePath": "assets/item-mineral-6.png",
+      "sha256": "3a2ffa3a42af381c22a389948e42929674cf089ec156548d47df50e519a3cb99",
+      "bytes": 32555,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-mineral-6.png"
+    },
+    {
+      "path": "minigame-assets/item-mineral-7.png",
+      "remotePath": "assets/item-mineral-7.png",
+      "sha256": "a21fcf6e7a8faae962c258597782a3bf6565887e05760eedccf6061ef81bd787",
+      "bytes": 30189,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-mineral-7.png"
+    },
+    {
+      "path": "minigame-assets/item-mineral-8.png",
+      "remotePath": "assets/item-mineral-8.png",
+      "sha256": "606daff1c554d0fe93ef9e5de1d65b2d329f54676df9191433dd1b45430cace6",
+      "bytes": 46569,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-mineral-8.png"
+    },
+    {
+      "path": "minigame-assets/item-mineral-9.png",
+      "remotePath": "assets/item-mineral-9.png",
+      "sha256": "c8bbc1b32093f8a85bf3a8dec4d7d1b7a8d4d0b34a8a1491110548b7dd12ab49",
+      "bytes": 32130,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-mineral-9.png"
+    },
+    {
+      "path": "minigame-assets/item-plaster-1.png",
+      "remotePath": "assets/item-plaster-1.png",
+      "sha256": "9aa69c6bb1115c2b61b5bfd04ecd72c6b13cdb6df2a03181ddde50b099cd8ac2",
+      "bytes": 23202,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-plaster-1.png"
+    },
+    {
+      "path": "minigame-assets/item-plaster-10.png",
+      "remotePath": "assets/item-plaster-10.png",
+      "sha256": "dd2294c5698745e2a6c45145a82bcfaf8db9fc2e102f5b53c8d653a806259936",
+      "bytes": 30340,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-plaster-10.png"
+    },
+    {
+      "path": "minigame-assets/item-plaster-11.png",
+      "remotePath": "assets/item-plaster-11.png",
+      "sha256": "01f376ea4b1ed4f1d5b7f37e0637ed706742ec80d42ba9ccd6033c65e191a14c",
+      "bytes": 29429,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-plaster-11.png"
+    },
+    {
+      "path": "minigame-assets/item-plaster-12.png",
+      "remotePath": "assets/item-plaster-12.png",
+      "sha256": "276a872d6f151d33a0cac3b8614fd6a8661a1a6dedd32b7940e446ebc97ec1b0",
+      "bytes": 31069,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-plaster-12.png"
+    },
+    {
+      "path": "minigame-assets/item-plaster-13.png",
+      "remotePath": "assets/item-plaster-13.png",
+      "sha256": "0bb23c884861277cf2646b3f70545498c4c2bf5d2f5988ab3e669dad6b59bf4c",
+      "bytes": 26402,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-plaster-13.png"
+    },
+    {
+      "path": "minigame-assets/item-plaster-14.png",
+      "remotePath": "assets/item-plaster-14.png",
+      "sha256": "e4a02c8e1d41b5ffb3e276f054a786d47e0b48ab8464270045444a6430dbf778",
+      "bytes": 44717,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-plaster-14.png"
+    },
+    {
+      "path": "minigame-assets/item-plaster-2.png",
+      "remotePath": "assets/item-plaster-2.png",
+      "sha256": "fc89b861cebc7692da1e680a9684aa620ff79c0db43a81da46d3c481d348a944",
+      "bytes": 29852,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-plaster-2.png"
+    },
+    {
+      "path": "minigame-assets/item-plaster-3.png",
+      "remotePath": "assets/item-plaster-3.png",
+      "sha256": "6263154b8d9520acfc0edc4b5c4a4d906f9a20a199b85d88e408b305c5f1367b",
+      "bytes": 20577,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-plaster-3.png"
+    },
+    {
+      "path": "minigame-assets/item-plaster-3.webp",
+      "remotePath": "assets/item-plaster-3.webp",
+      "sha256": "43c6e8e68f4512981c5fadc1bff2e498bbf9679e33f05794e552dc28b8137089",
+      "bytes": 5838,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-plaster-3.webp"
+    },
+    {
+      "path": "minigame-assets/item-plaster-4.png",
+      "remotePath": "assets/item-plaster-4.png",
+      "sha256": "62923f5e6f426d72c3ab8eaa1f486142932a08435501cf2a55041acad71e4d5d",
+      "bytes": 21490,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-plaster-4.png"
+    },
+    {
+      "path": "minigame-assets/item-plaster-5.png",
+      "remotePath": "assets/item-plaster-5.png",
+      "sha256": "b8807da07a3e13ea73e690829f77fb819fea129312ab3806762584e289018c75",
+      "bytes": 27552,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-plaster-5.png"
+    },
+    {
+      "path": "minigame-assets/item-plaster-6.png",
+      "remotePath": "assets/item-plaster-6.png",
+      "sha256": "675c44600240bce8a5824f8ba25311678d3a28e0632aacd7765b6e04f701fec9",
+      "bytes": 35316,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-plaster-6.png"
+    },
+    {
+      "path": "minigame-assets/item-plaster-7.png",
+      "remotePath": "assets/item-plaster-7.png",
+      "sha256": "b6032ef35441c37fc455aa860aba389c01dd7457264764efed237754ebc34379",
+      "bytes": 33231,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-plaster-7.png"
+    },
+    {
+      "path": "minigame-assets/item-plaster-8.png",
+      "remotePath": "assets/item-plaster-8.png",
+      "sha256": "bfd25ada74a4afa9dc45fad1bed72b22e3538c8daad67ee14ae7af54f6f3eaac",
+      "bytes": 28589,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-plaster-8.png"
+    },
+    {
+      "path": "minigame-assets/item-plaster-9.png",
+      "remotePath": "assets/item-plaster-9.png",
+      "sha256": "cccf316f3a2c236662373e657c58e5ca2db35e4201633ecaa68150f46d4a123b",
+      "bytes": 28952,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-plaster-9.png"
+    },
+    {
+      "path": "minigame-assets/item-resource-coin-1.png",
+      "remotePath": "assets/item-resource-coin-1.png",
+      "sha256": "7155d0792d3983810fcb8dd854808852abb2a9e95a77cd6ffae6fa3670c175db",
+      "bytes": 202539,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-resource-coin-1.png"
+    },
+    {
+      "path": "minigame-assets/item-resource-coin-2.png",
+      "remotePath": "assets/item-resource-coin-2.png",
+      "sha256": "1fad2ddd52e1754e9da796dad2eb1b36e4c4b9e7763690e61f9e1f05ad4866fb",
+      "bytes": 234184,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-resource-coin-2.png"
+    },
+    {
+      "path": "minigame-assets/item-resource-coin-3.png",
+      "remotePath": "assets/item-resource-coin-3.png",
+      "sha256": "4ba3b771a988ed839fad35c3b9b2c19931e5d7fafdc385159149095104f00402",
+      "bytes": 245734,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-resource-coin-3.png"
+    },
+    {
+      "path": "minigame-assets/item-resource-coin-4.png",
+      "remotePath": "assets/item-resource-coin-4.png",
+      "sha256": "d4a377f9fa7fb8ad04a78a4d6f8be5ab320a1ebcbbc87466ec0687deec945662",
+      "bytes": 161336,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-resource-coin-4.png"
+    },
+    {
+      "path": "minigame-assets/item-resource-coin-5.png",
+      "remotePath": "assets/item-resource-coin-5.png",
+      "sha256": "d9ab42789d7b7e632003a8c68d3af56acdd27d05d69b0ef1174cb3be93a25084",
+      "bytes": 232878,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-resource-coin-5.png"
+    },
+    {
+      "path": "minigame-assets/item-resource-energy-1.png",
+      "remotePath": "assets/item-resource-energy-1.png",
+      "sha256": "777f8d08d760f82830a9105e4936ac56781dbdfcd4354f3daf38435abd66849c",
+      "bytes": 147635,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-resource-energy-1.png"
+    },
+    {
+      "path": "minigame-assets/item-resource-energy-2.png",
+      "remotePath": "assets/item-resource-energy-2.png",
+      "sha256": "cc29e8b26f181929164c94097f5b10c5188964221fe98181cfd7b5795fc07e13",
+      "bytes": 236695,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-resource-energy-2.png"
+    },
+    {
+      "path": "minigame-assets/item-resource-energy-3.png",
+      "remotePath": "assets/item-resource-energy-3.png",
+      "sha256": "31223990a5cadcd0e9c8887293885d94c571fafe54490851733c5531ec3b2037",
+      "bytes": 151337,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-resource-energy-3.png"
+    },
+    {
+      "path": "minigame-assets/item-resource-energy-4.png",
+      "remotePath": "assets/item-resource-energy-4.png",
+      "sha256": "e69db9bf525e8b05c4173f333ba6efc8262cf7b5005ab226b2854928babc3f6f",
+      "bytes": 338560,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-resource-energy-4.png"
+    },
+    {
+      "path": "minigame-assets/item-resource-energy-5.png",
+      "remotePath": "assets/item-resource-energy-5.png",
+      "sha256": "600b38d149953b339581ebf1628f24ca4cb94331ef0f9e5c4dd76ccea5670bb2",
+      "bytes": 176484,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-resource-energy-5.png"
+    },
+    {
+      "path": "minigame-assets/item-resource-gold-1.png",
+      "remotePath": "assets/item-resource-gold-1.png",
+      "sha256": "c9164fa6fad8a188f288202ee0b0f43bb761ede87edd8073632d68ff3ba5f46f",
+      "bytes": 186962,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-resource-gold-1.png"
+    },
+    {
+      "path": "minigame-assets/item-resource-gold-2.png",
+      "remotePath": "assets/item-resource-gold-2.png",
+      "sha256": "c1669cf5007687a165e63a79378f237344d0e630e504ea8df966e8de91927bb8",
+      "bytes": 163625,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-resource-gold-2.png"
+    },
+    {
+      "path": "minigame-assets/item-resource-gold-3.png",
+      "remotePath": "assets/item-resource-gold-3.png",
+      "sha256": "ab28d071e90c15292c466844793dbdb976a6c6e508933b5b5cde1c7ed6a7351f",
+      "bytes": 213095,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-resource-gold-3.png"
+    },
+    {
+      "path": "minigame-assets/item-resource-gold-4.png",
+      "remotePath": "assets/item-resource-gold-4.png",
+      "sha256": "6c5fba7e9fd3b2ab52fe2781f2cc92737de5d2a327cc26452c5597658c6be65e",
+      "bytes": 109751,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-resource-gold-4.png"
+    },
+    {
+      "path": "minigame-assets/item-resource-gold-5.png",
+      "remotePath": "assets/item-resource-gold-5.png",
+      "sha256": "483f9e7f79488bc519d7304f319110ada51cce3395e467afb6f7e4ff3e23bbd8",
+      "bytes": 200139,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-resource-gold-5.png"
+    },
+    {
+      "path": "minigame-assets/item-root-1.png",
+      "remotePath": "assets/item-root-1.png",
+      "sha256": "f45ba67d9ba3aa2503f0adf9972ac4b9b6eaf00a4a3a69acaeadb8001283111f",
+      "bytes": 25201,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-root-1.png"
+    },
+    {
+      "path": "minigame-assets/item-root-10.png",
+      "remotePath": "assets/item-root-10.png",
+      "sha256": "472d2d286b5083da8781ebcabaa1a95c954aab6e90b59452db4c3279dd0a8257",
+      "bytes": 50825,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-root-10.png"
+    },
+    {
+      "path": "minigame-assets/item-root-11.png",
+      "remotePath": "assets/item-root-11.png",
+      "sha256": "4df967e70055b420042bc2aadf6e58c77f6116a0d8807eda5d097ca765e8e4ef",
+      "bytes": 53361,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-root-11.png"
+    },
+    {
+      "path": "minigame-assets/item-root-12.png",
+      "remotePath": "assets/item-root-12.png",
+      "sha256": "452eac1f0390d4a66a05cb9d871515f72111b92cdbc75985bfe62b699aafdd2b",
+      "bytes": 51343,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-root-12.png"
+    },
+    {
+      "path": "minigame-assets/item-root-13.png",
+      "remotePath": "assets/item-root-13.png",
+      "sha256": "bc62c08c5265a03ad9f66f671c23dc808bfb5411a4da53ee86d5244523df9f00",
+      "bytes": 43595,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-root-13.png"
+    },
+    {
+      "path": "minigame-assets/item-root-14.png",
+      "remotePath": "assets/item-root-14.png",
+      "sha256": "4cdbaa43908f82f03350d4a769f6c8a35304bcadccea5cc834facfdf0c6e2bb4",
+      "bytes": 45506,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-root-14.png"
+    },
+    {
+      "path": "minigame-assets/item-root-15.png",
+      "remotePath": "assets/item-root-15.png",
+      "sha256": "9fb13bb0d1c499019bdb25f7128f791454e3323c4621483bceb6a58856582bf0",
+      "bytes": 54384,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-root-15.png"
+    },
+    {
+      "path": "minigame-assets/item-root-2.png",
+      "remotePath": "assets/item-root-2.png",
+      "sha256": "19eccab017dc3311c48b0bdc038e04703bf7bd48372a17013dbd3f6820bc3062",
+      "bytes": 41014,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-root-2.png"
+    },
+    {
+      "path": "minigame-assets/item-root-3.png",
+      "remotePath": "assets/item-root-3.png",
+      "sha256": "b2e209a2de86fd576b07e8a2d9bbea6f1e0e0ecebdb6d85c990d22f7696ff18a",
+      "bytes": 35158,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-root-3.png"
+    },
+    {
+      "path": "minigame-assets/item-root-4.png",
+      "remotePath": "assets/item-root-4.png",
+      "sha256": "514e5ae66e39ddaac65ac5e053f83c79ad475e326754bf0e713714db3ef2b267",
+      "bytes": 36274,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-root-4.png"
+    },
+    {
+      "path": "minigame-assets/item-root-5.png",
+      "remotePath": "assets/item-root-5.png",
+      "sha256": "74e768351e06900e134f36a09d8492eaf62e46e0e379492ad9637da704252418",
+      "bytes": 38984,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-root-5.png"
+    },
+    {
+      "path": "minigame-assets/item-root-6.png",
+      "remotePath": "assets/item-root-6.png",
+      "sha256": "a8a98e6edc577fac6b0ce1d867667ee9dc2c064a67b8aaa497b4abf59688582e",
+      "bytes": 43696,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-root-6.png"
+    },
+    {
+      "path": "minigame-assets/item-root-7.png",
+      "remotePath": "assets/item-root-7.png",
+      "sha256": "f7038eea0ccc84b11f8a3ccf298e092a9e0c62837389003e4536631fe19a6902",
+      "bytes": 42503,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-root-7.png"
+    },
+    {
+      "path": "minigame-assets/item-root-8.png",
+      "remotePath": "assets/item-root-8.png",
+      "sha256": "bd35c9833ddc79a5936e5b68fe2bd33f252e1f8cf252170ad9a8487c43796274",
+      "bytes": 42542,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-root-8.png"
+    },
+    {
+      "path": "minigame-assets/item-root-9.png",
+      "remotePath": "assets/item-root-9.png",
+      "sha256": "d13a4419916f139e9b45de6d28d92dc2b64d75b101c08fbef41d900d72bc55ab",
+      "bytes": 39274,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-root-9.png"
+    },
+    {
+      "path": "minigame-assets/item-seed-1.png",
+      "remotePath": "assets/item-seed-1.png",
+      "sha256": "4e3ec39ed3d9b8dafe3aacb0509d9adcce336c62afdbd2387d9bffdfe0879cdb",
+      "bytes": 38417,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-seed-1.png"
+    },
+    {
+      "path": "minigame-assets/item-seed-2.png",
+      "remotePath": "assets/item-seed-2.png",
+      "sha256": "c44d913103b279d00397cda55e0ebc7425ec01f8a3719893546fee08fc8a5ea7",
+      "bytes": 40482,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-seed-2.png"
+    },
+    {
+      "path": "minigame-assets/item-seed-3.png",
+      "remotePath": "assets/item-seed-3.png",
+      "sha256": "d67d7e1a4661debbd0ae54e4c73ca7e1f3eddbf3691d806c94f84eb89dc204d3",
+      "bytes": 43661,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-seed-3.png"
+    },
+    {
+      "path": "minigame-assets/item-seed-4.png",
+      "remotePath": "assets/item-seed-4.png",
+      "sha256": "48670d837efa43cc8e026d5fa7cc154b1f892ee0220e62b494c18edfc9504d29",
+      "bytes": 40605,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-seed-4.png"
+    },
+    {
+      "path": "minigame-assets/item-seed-5.png",
+      "remotePath": "assets/item-seed-5.png",
+      "sha256": "2ff44510d20ae00a6287e42b134955650333a94796848c185d70d61d5e7ccb6a",
+      "bytes": 43286,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-seed-5.png"
+    },
+    {
+      "path": "minigame-assets/item-seed-6.png",
+      "remotePath": "assets/item-seed-6.png",
+      "sha256": "6668e46d67493ab53b046ebf794443db65bd6e95ca74bb1a332d11cffedc5df0",
+      "bytes": 40458,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-seed-6.png"
+    },
+    {
+      "path": "minigame-assets/item-seed-7.png",
+      "remotePath": "assets/item-seed-7.png",
+      "sha256": "da0cf5aae9474d46920164938fc945d11509635b9e6568e6c3c789d0cd4129ec",
+      "bytes": 47780,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-seed-7.png"
+    },
+    {
+      "path": "minigame-assets/item-special-herbal-cat-1.png",
+      "remotePath": "assets/item-special-herbal-cat-1.png",
+      "sha256": "7e53d6d0a6dfdcca431efb1284e85bdecbb20af05fddf942c09db48c389bf14e",
+      "bytes": 27200,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-special-herbal-cat-1.png"
+    },
+    {
+      "path": "minigame-assets/item-special-herbal-cat-10.png",
+      "remotePath": "assets/item-special-herbal-cat-10.png",
+      "sha256": "f7fd5d238166f41d5002e7fe8f1cef9f48f92528fd3ac3842ef327660e87bddb",
+      "bytes": 33731,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-special-herbal-cat-10.png"
+    },
+    {
+      "path": "minigame-assets/item-special-herbal-cat-2.png",
+      "remotePath": "assets/item-special-herbal-cat-2.png",
+      "sha256": "ec2e554b0395699b2ef476a3fd2b27f14f6b32b92ec74e2d6e81b06c9d231fb9",
+      "bytes": 20518,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-special-herbal-cat-2.png"
+    },
+    {
+      "path": "minigame-assets/item-special-herbal-cat-3.png",
+      "remotePath": "assets/item-special-herbal-cat-3.png",
+      "sha256": "5970c57074f663b5966d1435fd932ce2b43e6a00d357ad1c10369e2cf2e4ff28",
+      "bytes": 30153,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-special-herbal-cat-3.png"
+    },
+    {
+      "path": "minigame-assets/item-special-herbal-cat-3.webp",
+      "remotePath": "assets/item-special-herbal-cat-3.webp",
+      "sha256": "15007135c5787741d5094c0b7f6e39ae25dc0357809516d50566e62156cdb099",
+      "bytes": 10800,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-special-herbal-cat-3.webp"
+    },
+    {
+      "path": "minigame-assets/item-special-herbal-cat-4.png",
+      "remotePath": "assets/item-special-herbal-cat-4.png",
+      "sha256": "b33adc9f2860340849b0026d480cc24e2e72b1ad98416a4dafb517e5918d1322",
+      "bytes": 28173,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-special-herbal-cat-4.png"
+    },
+    {
+      "path": "minigame-assets/item-special-herbal-cat-5.png",
+      "remotePath": "assets/item-special-herbal-cat-5.png",
+      "sha256": "f5e71bf71eaa43e67093ed6abad4a36027d8dc3a4408ab1ae263ac63ef80004a",
+      "bytes": 35898,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-special-herbal-cat-5.png"
+    },
+    {
+      "path": "minigame-assets/item-special-herbal-cat-6.png",
+      "remotePath": "assets/item-special-herbal-cat-6.png",
+      "sha256": "4e3db1fa75c23eb1b73f1b76522f2ebe655be5b72121c64dc53ab8a912785d1f",
+      "bytes": 23335,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-special-herbal-cat-6.png"
+    },
+    {
+      "path": "minigame-assets/item-special-herbal-cat-7.png",
+      "remotePath": "assets/item-special-herbal-cat-7.png",
+      "sha256": "b98de201f6ff2767d3ed6dd085f099b22055ba6028f05fb52d886eb1acc31ba8",
+      "bytes": 32944,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-special-herbal-cat-7.png"
+    },
+    {
+      "path": "minigame-assets/item-special-herbal-cat-8.png",
+      "remotePath": "assets/item-special-herbal-cat-8.png",
+      "sha256": "ea57306fb2c1744248d61eb9dfd2080153062eaf7d7229da100518b6429541b6",
+      "bytes": 34479,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-special-herbal-cat-8.png"
+    },
+    {
+      "path": "minigame-assets/item-special-herbal-cat-9.png",
+      "remotePath": "assets/item-special-herbal-cat-9.png",
+      "sha256": "65cebd219f3e955aa514b6befd91257bf3cd7bc558f0eed0efe185cd9f3df110",
+      "bytes": 37586,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-special-herbal-cat-9.png"
+    },
+    {
+      "path": "minigame-assets/item-supply-1.png",
+      "remotePath": "assets/item-supply-1.png",
+      "sha256": "d4abeafed247116df358559f352feedcadf88eae9185fafcf33817d3cd38253f",
+      "bytes": 29222,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-supply-1.png"
+    },
+    {
+      "path": "minigame-assets/item-supply-2.png",
+      "remotePath": "assets/item-supply-2.png",
+      "sha256": "cb43eebcc14f0ce892908a79ddf7acc5391275b325c00b0190d6f0112400d833",
+      "bytes": 34013,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-supply-2.png"
+    },
+    {
+      "path": "minigame-assets/item-supply-3.png",
+      "remotePath": "assets/item-supply-3.png",
+      "sha256": "4907ebe8b05d4a2d9df40bb7b79cbc398091496b62cea22338adea7846e6dc1d",
+      "bytes": 30274,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-supply-3.png"
+    },
+    {
+      "path": "minigame-assets/item-supply-4.png",
+      "remotePath": "assets/item-supply-4.png",
+      "sha256": "67f5ba1fdff47fbb4a09bc38214b406b9a657b8a6f03ba1a68310d27b1a2f978",
+      "bytes": 27028,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-supply-4.png"
+    },
+    {
+      "path": "minigame-assets/item-supply-5.png",
+      "remotePath": "assets/item-supply-5.png",
+      "sha256": "3ef1fc2036d73ffe28f25618b467bf42ebcebf2edb146c86f53edaf7b5106f96",
+      "bytes": 32847,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-supply-5.png"
+    },
+    {
+      "path": "minigame-assets/item-supply-6.png",
+      "remotePath": "assets/item-supply-6.png",
+      "sha256": "3def5128616f95296a4bad9f2fabf36fa755367b1ea9891569f37c1a3cef0c75",
+      "bytes": 39343,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-supply-6.png"
+    },
+    {
+      "path": "minigame-assets/item-supply-7.png",
+      "remotePath": "assets/item-supply-7.png",
+      "sha256": "30ac06faa66c4457c203839ae637eb36b5a9a5832afcaf574219191c7266e362",
+      "bytes": 39414,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/item-supply-7.png"
+    },
+    {
+      "path": "minigame-assets/nameplate-dialogue-wjl-ref.png",
+      "remotePath": "assets/nameplate-dialogue-wjl-ref.png",
+      "sha256": "83ddd7332ec3b7b36c9725e4f8481a62729226ac4a35218ccc605370b0ac0d90",
+      "bytes": 56436,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/nameplate-dialogue-wjl-ref.png"
+    },
+    {
+      "path": "minigame-assets/panel-chore-modal-bluekey-v1.png",
+      "remotePath": "assets/panel-chore-modal-bluekey-v1.png",
+      "sha256": "7dc48e7b6f9860ef5881d7ed192945f312d496f67f423210720583ab1454e262",
+      "bytes": 379105,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/panel-chore-modal-bluekey-v1.png"
+    },
+    {
+      "path": "minigame-assets/panel-dialogue-wjl-ref.png",
+      "remotePath": "assets/panel-dialogue-wjl-ref.png",
+      "sha256": "a752640b59e43dbf53c7677b6534642458aec05fe92201398651e12ad2fdd6ec",
+      "bytes": 288446,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/panel-dialogue-wjl-ref.png"
+    },
+    {
+      "path": "minigame-assets/panel-task-entry-maker-v1.png",
+      "remotePath": "assets/panel-task-entry-maker-v1.png",
+      "sha256": "aa707a399a153ced90b313d69406ee83148649dff59fea0ee632e581f5f64816",
+      "bytes": 111092,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/panel-task-entry-maker-v1.png"
+    },
+    {
+      "path": "minigame-assets/producer-baicao-1.png",
+      "remotePath": "assets/producer-baicao-1.png",
+      "sha256": "d0ad35e4ae5ad06f6a4740906c4ca39e5fe52b002b5cd5b7c29d147eb76cfa51",
+      "bytes": 31681,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-baicao-1.png"
+    },
+    {
+      "path": "minigame-assets/producer-baicao-1.webp",
+      "remotePath": "assets/producer-baicao-1.webp",
+      "sha256": "d20edb20f8baf83e85dadee489e7146af021c8293340316f960008654a3496f5",
+      "bytes": 7942,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-baicao-1.webp"
+    },
+    {
+      "path": "minigame-assets/producer-baicao-2.png",
+      "remotePath": "assets/producer-baicao-2.png",
+      "sha256": "7e67476167da02eacb8e6c8def4533aca81b9e29077e02f303e46de9d487143a",
+      "bytes": 33240,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-baicao-2.png"
+    },
+    {
+      "path": "minigame-assets/producer-baicao-2.webp",
+      "remotePath": "assets/producer-baicao-2.webp",
+      "sha256": "4c82cd37a7563917414c4cb4e1b6ab41018a841f384277bb31bf399f1a353706",
+      "bytes": 10778,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-baicao-2.webp"
+    },
+    {
+      "path": "minigame-assets/producer-baicao-3.png",
+      "remotePath": "assets/producer-baicao-3.png",
+      "sha256": "a7b3c7b65938dd9d69af8bacf4170130f3584c6d2a4a993e90f9c210d6d07286",
+      "bytes": 42949,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-baicao-3.png"
+    },
+    {
+      "path": "minigame-assets/producer-baicao-4.png",
+      "remotePath": "assets/producer-baicao-4.png",
+      "sha256": "3ebaff2ed442969dc9127e80f335d909744479fc2066bea19de88c81a26e8815",
+      "bytes": 41993,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-baicao-4.png"
+    },
+    {
+      "path": "minigame-assets/producer-baicao-5.png",
+      "remotePath": "assets/producer-baicao-5.png",
+      "sha256": "88f5b0993c739345bdcc17f8deb60e9202b7d4bfb5050e8ff0699d03634ec855",
+      "bytes": 43392,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-baicao-5.png"
+    },
+    {
+      "path": "minigame-assets/producer-baicao-6.png",
+      "remotePath": "assets/producer-baicao-6.png",
+      "sha256": "62b59aab5413fa7ffe73a4b84ea992cd6a92795462a5d16db84a40cc6d58a1dc",
+      "bytes": 38675,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-baicao-6.png"
+    },
+    {
+      "path": "minigame-assets/producer-baicao-7.png",
+      "remotePath": "assets/producer-baicao-7.png",
+      "sha256": "ffe819c146770174f7fd638f57e24f770a9d1c19f6e288fb263e4628ca1d766d",
+      "bytes": 45939,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-baicao-7.png"
+    },
+    {
+      "path": "minigame-assets/producer-baicao-8.png",
+      "remotePath": "assets/producer-baicao-8.png",
+      "sha256": "ccda5b21939432f20ff307358b2437f6377e8f6c4f42aa8fa186835ddcd36583",
+      "bytes": 51279,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-baicao-8.png"
+    },
+    {
+      "path": "minigame-assets/producer-garden-1.png",
+      "remotePath": "assets/producer-garden-1.png",
+      "sha256": "2c0fc7ebdfa4953b8ee59b6235d3f78e330ef23601fc742421d32eb710f42ddd",
+      "bytes": 19355,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-garden-1.png"
+    },
+    {
+      "path": "minigame-assets/producer-garden-2.png",
+      "remotePath": "assets/producer-garden-2.png",
+      "sha256": "27473c9f8ebb2cb1b64fab583493600af2263edad70a1f85ddddfea15e6d9395",
+      "bytes": 25210,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-garden-2.png"
+    },
+    {
+      "path": "minigame-assets/producer-garden-3.png",
+      "remotePath": "assets/producer-garden-3.png",
+      "sha256": "4a68919c371a0db65adde22f152568213f8f2ddae054296b50b16f2b0832f2f3",
+      "bytes": 28610,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-garden-3.png"
+    },
+    {
+      "path": "minigame-assets/producer-garden-4.png",
+      "remotePath": "assets/producer-garden-4.png",
+      "sha256": "0bb296a03c2c4c913e95368d251c4ec6d31bd6104f764fe76a5ccb167ba26686",
+      "bytes": 30169,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-garden-4.png"
+    },
+    {
+      "path": "minigame-assets/producer-garden-5.png",
+      "remotePath": "assets/producer-garden-5.png",
+      "sha256": "d4426537d94aa46cc4521f843188102457ccce1e50a3776709429f4153790797",
+      "bytes": 31435,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-garden-5.png"
+    },
+    {
+      "path": "minigame-assets/producer-garden-6.png",
+      "remotePath": "assets/producer-garden-6.png",
+      "sha256": "108afcec4181dc42c501792462fec9f4e257e4379d8ac7302d28fa8a9dec46fb",
+      "bytes": 32421,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-garden-6.png"
+    },
+    {
+      "path": "minigame-assets/producer-gathering-1.png",
+      "remotePath": "assets/producer-gathering-1.png",
+      "sha256": "905bbcb7f65623c5dff47eccc8573a5bbc502fd35ffab00cb2d21b08f7e7d6bd",
+      "bytes": 15590,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-gathering-1.png"
+    },
+    {
+      "path": "minigame-assets/producer-gathering-2.png",
+      "remotePath": "assets/producer-gathering-2.png",
+      "sha256": "b3200378d7dbff7db8c291141038cd537054f3477c6ca5a6092cd85bfb5c4f0d",
+      "bytes": 19801,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-gathering-2.png"
+    },
+    {
+      "path": "minigame-assets/producer-gathering-3.png",
+      "remotePath": "assets/producer-gathering-3.png",
+      "sha256": "495f44d7bb8a34970026162c764da0ee49b690f39e85d4da884352052de03fac",
+      "bytes": 22620,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-gathering-3.png"
+    },
+    {
+      "path": "minigame-assets/producer-gathering-4.png",
+      "remotePath": "assets/producer-gathering-4.png",
+      "sha256": "49270baac8c348d7fb1979acd612756d8340ce36f098942d34f2e4365fb765a1",
+      "bytes": 53174,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-gathering-4.png"
+    },
+    {
+      "path": "minigame-assets/producer-gathering-5.png",
+      "remotePath": "assets/producer-gathering-5.png",
+      "sha256": "25636fe29433fcaeb458fb23e22ac0cc35b868651b81bfbea474c66345f941e5",
+      "bytes": 51882,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-gathering-5.png"
+    },
+    {
+      "path": "minigame-assets/producer-gathering-6.png",
+      "remotePath": "assets/producer-gathering-6.png",
+      "sha256": "8f27eebcf00a5d005dc9fa6faeb9a01ef2243910f6665c8dcfd7f6ab92ae107b",
+      "bytes": 48443,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-gathering-6.png"
+    },
+    {
+      "path": "minigame-assets/producer-gathering-7.png",
+      "remotePath": "assets/producer-gathering-7.png",
+      "sha256": "7577bfbbc8c29987db0971cc39cab912b3b27f2158b9ec05f9bb0e3a5131492c",
+      "bytes": 36099,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-gathering-7.png"
+    },
+    {
+      "path": "minigame-assets/producer-gathering-8.png",
+      "remotePath": "assets/producer-gathering-8.png",
+      "sha256": "02d58028399f573c8305ed0ae598ec72db60901b12dddae15d891cbec4ec7341",
+      "bytes": 36960,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-gathering-8.png"
+    },
+    {
+      "path": "minigame-assets/producer-herbal-cat-1.png",
+      "remotePath": "assets/producer-herbal-cat-1.png",
+      "sha256": "746d25ffcb3441bddc7909c4b30c9aab329b0f4310e2c45faff55a5da7774fa5",
+      "bytes": 21427,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-herbal-cat-1.png"
+    },
+    {
+      "path": "minigame-assets/producer-herbal-cat-2.png",
+      "remotePath": "assets/producer-herbal-cat-2.png",
+      "sha256": "5896d041b58ff41629bd72981adb4e83682fa074aee83064e0c16a66f325a2b5",
+      "bytes": 31948,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-herbal-cat-2.png"
+    },
+    {
+      "path": "minigame-assets/producer-herbal-cat-3.png",
+      "remotePath": "assets/producer-herbal-cat-3.png",
+      "sha256": "4aa8d2332b68601d08b2eaa26b40db1bfed512691d325d6d405505c1fd9fd6c9",
+      "bytes": 28166,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-herbal-cat-3.png"
+    },
+    {
+      "path": "minigame-assets/producer-herbal-cat-4.png",
+      "remotePath": "assets/producer-herbal-cat-4.png",
+      "sha256": "f92a830df3f9c67bc04f9e928a731211d827d3323056404ce751b043ba96720f",
+      "bytes": 43358,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-herbal-cat-4.png"
+    },
+    {
+      "path": "minigame-assets/producer-mineral-1.png",
+      "remotePath": "assets/producer-mineral-1.png",
+      "sha256": "4ea7b204ecf52ad2e58ff92abc2b79d92d734495173110771f655263d63888fc",
+      "bytes": 14353,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-mineral-1.png"
+    },
+    {
+      "path": "minigame-assets/producer-mineral-2.png",
+      "remotePath": "assets/producer-mineral-2.png",
+      "sha256": "194c8368a9731039273f6a37a35d4d7bf861f79ebf165f034feebffa5654f51b",
+      "bytes": 26588,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-mineral-2.png"
+    },
+    {
+      "path": "minigame-assets/producer-mineral-3.png",
+      "remotePath": "assets/producer-mineral-3.png",
+      "sha256": "e0a26dac8701c07c7cb66635de20b5d91c97b2294442bb2ca4234cea36a59dee",
+      "bytes": 25592,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-mineral-3.png"
+    },
+    {
+      "path": "minigame-assets/producer-mineral-4.png",
+      "remotePath": "assets/producer-mineral-4.png",
+      "sha256": "12315b90b4008e5345c128324a4f5b14ef409f7d553b5d91cc0b2bae6be91ec3",
+      "bytes": 53302,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-mineral-4.png"
+    },
+    {
+      "path": "minigame-assets/producer-mineral-5.png",
+      "remotePath": "assets/producer-mineral-5.png",
+      "sha256": "e6d2b39b1ae18ba3eabf3b46b5bc78ff76ab04fcb06475b4fd2c6de7ee588962",
+      "bytes": 51262,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-mineral-5.png"
+    },
+    {
+      "path": "minigame-assets/producer-mineral-6.png",
+      "remotePath": "assets/producer-mineral-6.png",
+      "sha256": "33f8738ddcb258d2e5c0c2843433568c01681526718541ba4200e6c0ac621c7b",
+      "bytes": 53266,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-mineral-6.png"
+    },
+    {
+      "path": "minigame-assets/producer-mineral-7.png",
+      "remotePath": "assets/producer-mineral-7.png",
+      "sha256": "beb19d3dd022bf3e53951e3b25a1bfb9174b285070ee7b092e9153cf9cc6d7cd",
+      "bytes": 59546,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-mineral-7.png"
+    },
+    {
+      "path": "minigame-assets/producer-processing-1.png",
+      "remotePath": "assets/producer-processing-1.png",
+      "sha256": "8dd408e370774c51cc44184b599a9a7afdc19bbe9209abaee2091f39372be2e0",
+      "bytes": 39158,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-processing-1.png"
+    },
+    {
+      "path": "minigame-assets/producer-processing-2.png",
+      "remotePath": "assets/producer-processing-2.png",
+      "sha256": "bacb19c28759dccabf511e4f3d15f823ed09dd7492bb24b06b8912ac7005bf44",
+      "bytes": 22917,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-processing-2.png"
+    },
+    {
+      "path": "minigame-assets/producer-processing-3.png",
+      "remotePath": "assets/producer-processing-3.png",
+      "sha256": "4232e0060d0594d3988dfb115349cc5025eafdaac0aea628f547374b05a2bf46",
+      "bytes": 28942,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-processing-3.png"
+    },
+    {
+      "path": "minigame-assets/producer-processing-4.png",
+      "remotePath": "assets/producer-processing-4.png",
+      "sha256": "d4b3496d827ed8b14764eedd1f81a7e03220f49281ac50ac8835008a1d1241b5",
+      "bytes": 25041,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-processing-4.png"
+    },
+    {
+      "path": "minigame-assets/producer-processing-5.png",
+      "remotePath": "assets/producer-processing-5.png",
+      "sha256": "fbd0c3f5d6f988e202c2af2949c99edcd85e86f5d2c2884ff3b7136ebe33e189",
+      "bytes": 35830,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-processing-5.png"
+    },
+    {
+      "path": "minigame-assets/producer-processing-6.png",
+      "remotePath": "assets/producer-processing-6.png",
+      "sha256": "f3b1fa5f01900f1e2914a47139f4a2a4b35f058a7f69e78d64a571b283942698",
+      "bytes": 35752,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-processing-6.png"
+    },
+    {
+      "path": "minigame-assets/producer-processing-7.png",
+      "remotePath": "assets/producer-processing-7.png",
+      "sha256": "1f62ef5f0fb439695b1d0432255a7e9877561261900be13668a863d3afbe59a7",
+      "bytes": 42680,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-processing-7.png"
+    },
+    {
+      "path": "minigame-assets/producer-processing-8.png",
+      "remotePath": "assets/producer-processing-8.png",
+      "sha256": "e270ba2b23537574bc2404792eb2d6f98b61f0db8d5fe2fba8562373bb2b1e2b",
+      "bytes": 46008,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-processing-8.png"
+    },
+    {
+      "path": "minigame-assets/producer-supply-1.png",
+      "remotePath": "assets/producer-supply-1.png",
+      "sha256": "c059124f48361df400cb91922ef8070c118a42781a942e1293589a7d7306748f",
+      "bytes": 34377,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-supply-1.png"
+    },
+    {
+      "path": "minigame-assets/producer-supply-2.png",
+      "remotePath": "assets/producer-supply-2.png",
+      "sha256": "71505c300775459c178afac0f877748bbca735a81b7d2d6406bcb9a38335a0a6",
+      "bytes": 24953,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-supply-2.png"
+    },
+    {
+      "path": "minigame-assets/producer-supply-3.png",
+      "remotePath": "assets/producer-supply-3.png",
+      "sha256": "7ef25f961b58236dda0ff7da02ab23cd21d1e9f55c925433eae151132763166c",
+      "bytes": 26087,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-supply-3.png"
+    },
+    {
+      "path": "minigame-assets/producer-supply-4.png",
+      "remotePath": "assets/producer-supply-4.png",
+      "sha256": "7619c05b844105d9dd34239ecf66db94226358e9f187ab9cee2ccb702093d1d5",
+      "bytes": 27641,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-supply-4.png"
+    },
+    {
+      "path": "minigame-assets/producer-supply-5.png",
+      "remotePath": "assets/producer-supply-5.png",
+      "sha256": "84b744add3098ead43a74c7a4e81c256d0013b47a451e52677d6b935356c9af0",
+      "bytes": 20941,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-supply-5.png"
+    },
+    {
+      "path": "minigame-assets/producer-supply-6.png",
+      "remotePath": "assets/producer-supply-6.png",
+      "sha256": "37ee83682a82cdfc70f1a1b129f498e8dea03a28219d0c2c1149199ad4077782",
+      "bytes": 27055,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-supply-6.png"
+    },
+    {
+      "path": "minigame-assets/producer-supply-7.png",
+      "remotePath": "assets/producer-supply-7.png",
+      "sha256": "dbaccd441c35b35fbc989042f1afcfff5036a4977b79a770597177fd80f07874",
+      "bytes": 38275,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-supply-7.png"
+    },
+    {
+      "path": "minigame-assets/producer-supply-8.png",
+      "remotePath": "assets/producer-supply-8.png",
+      "sha256": "045de3a38b68f99bf46297015c3759ffde1219fc270e52ac39372640232439b0",
+      "bytes": 47721,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/producer-supply-8.png"
+    },
+    {
+      "path": "minigame-assets/reward-piggy-bank.png",
+      "remotePath": "assets/reward-piggy-bank.png",
+      "sha256": "cfd4a7f49b2d65adf31583618e9211c1e93565302052e593a916c3049813d06c",
+      "bytes": 242176,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/reward-piggy-bank.png"
+    },
+    {
+      "path": "minigame-assets/reward-welcome-chest.png",
+      "remotePath": "assets/reward-welcome-chest.png",
+      "sha256": "5b73bc1b40cdb22da0c769743f6f708ca59c3d9cd985f46afe20dfbedd54be59",
+      "bytes": 187905,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/reward-welcome-chest.png"
+    },
+    {
+      "path": "minigame-assets/ui-currency-copper.png",
+      "remotePath": "assets/ui-currency-copper.png",
+      "sha256": "766192db15708a049ab5632939229952053d57dbae4c3235e13560db1abe9e71",
+      "bytes": 216321,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/ui-currency-copper.png"
+    },
+    {
+      "path": "minigame-assets/ui-currency-gold.png",
+      "remotePath": "assets/ui-currency-gold.png",
+      "sha256": "6c5fba7e9fd3b2ab52fe2781f2cc92737de5d2a327cc26452c5597658c6be65e",
+      "bytes": 109751,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/ui-currency-gold.png"
+    },
+    {
+      "path": "minigame-assets/ui-currency-vitality.png",
+      "remotePath": "assets/ui-currency-vitality.png",
+      "sha256": "7faf4e461e682b9799555da55d72bb2d187a95f4bf3e8bb2b8027a4d3547eebc",
+      "bytes": 31104,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/ui-currency-vitality.png"
+    },
+    {
+      "path": "minigame-assets/ui-icon-market.png",
+      "remotePath": "assets/ui-icon-market.png",
+      "sha256": "90178ed05a7e9de0c0dd0ed325ebf64a75e72c15b21f3dd92d6f88049840d5a6",
+      "bytes": 213803,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/ui-icon-market.png"
+    },
+    {
+      "path": "minigame-assets/ui-icon-settings.png",
+      "remotePath": "assets/ui-icon-settings.png",
+      "sha256": "a71e3ecb74deae523ffa51223f2381146e5e8420e687134b1042847aeff0b22e",
+      "bytes": 263633,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/ui-icon-settings.png"
+    },
+    {
+      "path": "minigame-assets/ui-icon-warehouse.png",
+      "remotePath": "assets/ui-icon-warehouse.png",
+      "sha256": "f34c3155a5c5a8b1f7a0aa8aeb9828b9856cdca24f295d42b193befcf7c8e49a",
+      "bytes": 283997,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/ui-icon-warehouse.png"
+    },
+    {
+      "path": "minigame-assets/ui-order-scroll.png",
+      "remotePath": "assets/ui-order-scroll.png",
+      "sha256": "88f4d1baf29f1854d0be9d235cd6f5c728647a7d41a9e71fc748960f36ad0c70",
+      "bytes": 49980,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/ui-order-scroll.png"
+    },
+    {
+      "path": "minigame-assets/ui-reward-chain-seal.png",
+      "remotePath": "assets/ui-reward-chain-seal.png",
+      "sha256": "0ec8f1a8a4d597965fc45f9c0e711137b1e6e168c6f6c0b75d296dc3f55a3cd5",
+      "bytes": 31974,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/ui-reward-chain-seal.png"
+    },
+    {
+      "path": "minigame-assets/ui-switch-to-garden.png",
+      "remotePath": "assets/ui-switch-to-garden.png",
+      "sha256": "790a02837dbd0f26a229c8c09d191436b9d2da83786139b788a84f3633dbd784",
+      "bytes": 253215,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/ui-switch-to-garden.png"
+    },
+    {
+      "path": "minigame-assets/ui-switch-to-shop.png",
+      "remotePath": "assets/ui-switch-to-shop.png",
+      "sha256": "5109b8e045bab0c1bded401eee10b2ab484317ce1bda41ef4f2d27fd5e8a8a44",
+      "bytes": 268765,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/ui-switch-to-shop.png"
+    },
+    {
+      "path": "minigame-assets/warehouse-board-open.png",
+      "remotePath": "assets/warehouse-board-open.png",
+      "sha256": "10269627a1429480bed73f32f5d9896882b233933bd0cd599d60cb65de0efcff",
+      "bytes": 257635,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/warehouse-board-open.png"
+    },
+    {
+      "path": "minigame-assets/warehouse-reward-orb-inner-v2.png",
+      "remotePath": "assets/warehouse-reward-orb-inner-v2.png",
+      "sha256": "db8abdd4fa9e646286ddb949a73c2b8c167511837fbc5c5d8fcee8d0bedb38b7",
+      "bytes": 66756,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/warehouse-reward-orb-inner-v2.png"
+    },
+    {
+      "path": "minigame-assets/warehouse-reward-orb-rim-v2.png",
+      "remotePath": "assets/warehouse-reward-orb-rim-v2.png",
+      "sha256": "529b5054835cdfdb6711d098b4001585b70d5e6e4502fbfb8723c771d24f97ab",
+      "bytes": 46876,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/warehouse-reward-orb-rim-v2.png"
+    },
+    {
+      "path": "minigame-assets/warehouse-sand-n6a.png",
+      "remotePath": "assets/warehouse-sand-n6a.png",
+      "sha256": "822a52134bf3eaae4997b54801fcddf34aad06bc1886e7cf52ab949d11a9d2be",
+      "bytes": 689002,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/warehouse-sand-n6a.png"
+    },
+    {
+      "path": "minigame-assets/warehouse-sealed-tile-debris-paper.png",
+      "remotePath": "assets/warehouse-sealed-tile-debris-paper.png",
+      "sha256": "a13c8bbce749dbb32a443948cc4d98595dde90a570b68e6cd9e159c6e81e9f48",
+      "bytes": 131881,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/warehouse-sealed-tile-debris-paper.png"
+    },
+    {
+      "path": "minigame-assets/warehouse-sealed-tile-debris-wood.png",
+      "remotePath": "assets/warehouse-sealed-tile-debris-wood.png",
+      "sha256": "40406932d32e8e9d348226248014250b4da2fb18570d1cf5379c2fc54dfceb07",
+      "bytes": 131228,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/warehouse-sealed-tile-debris-wood.png"
+    },
+    {
+      "path": "minigame-assets/warehouse-sealed-tile-fold.png",
+      "remotePath": "assets/warehouse-sealed-tile-fold.png",
+      "sha256": "1cf11d5c35a811e8e2640e309ccc491f5b5b9cefcad18cf36b312e5d74b67c46",
+      "bytes": 127364,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/warehouse-sealed-tile-fold.png"
+    },
+    {
+      "path": "minigame-assets/warehouse-sealed-tile-plain.png",
+      "remotePath": "assets/warehouse-sealed-tile-plain.png",
+      "sha256": "757d6c54a33a1ac9f00adf8066a62066894ab359c47846a84405ebf3db635f93",
+      "bytes": 125484,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/warehouse-sealed-tile-plain.png"
+    },
+    {
+      "path": "minigame-assets/warehouse-sealed-tile-tag.png",
+      "remotePath": "assets/warehouse-sealed-tile-tag.png",
+      "sha256": "d5a1a0ee88dc9822868ec3180fb219fa9dc594152a7fa827194db5a45b61b283",
+      "bytes": 129305,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/warehouse-sealed-tile-tag.png"
+    },
+    {
+      "path": "minigame-assets/warehouse-web-w7a.png",
+      "remotePath": "assets/warehouse-web-w7a.png",
+      "sha256": "95708e2d083ace44155f3f186b62e9b94dc6a33f7c7081d1445a7889672033f8",
+      "bytes": 10201,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/warehouse-web-w7a.png"
+    },
+    {
+      "path": "minigame-assets/wen-xiansheng-order.png",
+      "remotePath": "assets/wen-xiansheng-order.png",
+      "sha256": "6462a353f3b8dbc7be2cf4c2872c73d3922fa5bcfc3f766e180450199d7dbdd2",
+      "bytes": 30618,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wen-xiansheng-order.png"
+    },
+    {
+      "path": "minigame-assets/wjl-background-main.webp",
+      "remotePath": "assets/wjl-background-main.webp",
+      "sha256": "7a2ade3a81968ac7f5532e83088426a609529f96b42c09fecb7b56aa589c26d5",
+      "bytes": 54460,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-background-main.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-character-a-fu.webp",
+      "remotePath": "assets/wjl-character-a-fu.webp",
+      "sha256": "69e240177a241c8cf9426ccbcaf1f17f380d615015e67a9ea0847ed12e879afb",
+      "bytes": 47134,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-character-a-fu.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-character-gu-qing-shu.webp",
+      "remotePath": "assets/wjl-character-gu-qing-shu.webp",
+      "sha256": "7f7df9b88fe6439c4f3e91bc21c1c6bdeb02134bcaef333f7dbaaddbfc40bfbc",
+      "bytes": 55448,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-character-gu-qing-shu.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-character-lao-qian.webp",
+      "remotePath": "assets/wjl-character-lao-qian.webp",
+      "sha256": "497dc8dd0c7dcbf87759d81e2f622986d43ed909983bd54ebd3f860778011b6d",
+      "bytes": 66052,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-character-lao-qian.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-character-lian-gu.webp",
+      "remotePath": "assets/wjl-character-lian-gu.webp",
+      "sha256": "ded49ac76e2e185c2679993699f9b536b9776d575b7eb572b7f24ceb5a607cd6",
+      "bytes": 47130,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-character-lian-gu.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-character-qing-xu.webp",
+      "remotePath": "assets/wjl-character-qing-xu.webp",
+      "sha256": "93c3da95251df9f80fe67509e2aba268cb26eb86f14dbc6379e269b2fe785ea9",
+      "bytes": 71378,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-character-qing-xu.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-character-qiu-tang.webp",
+      "remotePath": "assets/wjl-character-qiu-tang.webp",
+      "sha256": "79729a8a9c2735e8fc83cf2d1dd4b9f6953c8c13cddfec736956fab9ed19454f",
+      "bytes": 53100,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-character-qiu-tang.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-character-shen-huai-yuan.webp",
+      "remotePath": "assets/wjl-character-shen-huai-yuan.webp",
+      "sha256": "82bef6fd3ba6d071a0689513ba03e2984b67e10c1afb8559aaea7a37f4490541",
+      "bytes": 39692,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-character-shen-huai-yuan.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-character-shen-nian.webp",
+      "remotePath": "assets/wjl-character-shen-nian.webp",
+      "sha256": "21726ad04d1046c7ed1e2d5b653f8ca3cce74fb9a9117226f792674d2041d0a2",
+      "bytes": 41704,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-character-shen-nian.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-character-shen-yan-shan.webp",
+      "remotePath": "assets/wjl-character-shen-yan-shan.webp",
+      "sha256": "9454ce99537674d9ae8b94ed654fec3ed995ecc6306226f88c6e0b16210b67df",
+      "bytes": 44058,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-character-shen-yan-shan.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f01-facade-woodwork-indigo.webp",
+      "remotePath": "assets/wjl-choice-f01-facade-woodwork-indigo.webp",
+      "sha256": "b5d952e1daa2cb3d4160a2727e1ae5d8293a78c4bdfee7fedb0de334500953f1",
+      "bytes": 166560,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f01-facade-woodwork-indigo.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f01-facade-woodwork-natural.webp",
+      "remotePath": "assets/wjl-choice-f01-facade-woodwork-natural.webp",
+      "sha256": "6945471f387539c931d7f5e5a410e41f7b831158788ef2d8598a78fa5a825927",
+      "bytes": 153318,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f01-facade-woodwork-natural.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f01-facade-woodwork-ochre.webp",
+      "remotePath": "assets/wjl-choice-f01-facade-woodwork-ochre.webp",
+      "sha256": "4a3f9cfa22d84389888a1ddcc6d167f1240a1266e6651922ce8960e735673d51",
+      "bytes": 163274,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f01-facade-woodwork-ochre.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f01-main-plaque-gold.webp",
+      "remotePath": "assets/wjl-choice-f01-main-plaque-gold.webp",
+      "sha256": "ddeb218a795973f2b021df8847422f6528b47cb3443ca37b7a4eeacfedf67d86",
+      "bytes": 14176,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f01-main-plaque-gold.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f01-main-plaque-old.webp",
+      "remotePath": "assets/wjl-choice-f01-main-plaque-old.webp",
+      "sha256": "45c3c5406fe1d8d524962fefb7140c36bc45da5e2aa5fb7d546e681d9731f0d3",
+      "bytes": 12684,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f01-main-plaque-old.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f01-main-plaque-varnish.webp",
+      "remotePath": "assets/wjl-choice-f01-main-plaque-varnish.webp",
+      "sha256": "729f39d5edf725078f79a201cb0488cbed90adb527b314ae0f24bb776504bf8e",
+      "bytes": 12510,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f01-main-plaque-varnish.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f02-bed-ebony.webp",
+      "remotePath": "assets/wjl-choice-f02-bed-ebony.webp",
+      "sha256": "a988c1f2c6e7087368f42418ddf7136b70cf6304c2008adeb13caa6d1e3c06ae",
+      "bytes": 16280,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f02-bed-ebony.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f02-bed-tenghuang.webp",
+      "remotePath": "assets/wjl-choice-f02-bed-tenghuang.webp",
+      "sha256": "051c9dc883007826b5adaee887cdea14c1371c76624cc98668adb0bdccf985b9",
+      "bytes": 16916,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f02-bed-tenghuang.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f02-bed-vermilion.webp",
+      "remotePath": "assets/wjl-choice-f02-bed-vermilion.webp",
+      "sha256": "c147712c31749d4c3dd4bd085c128a6068c648988c5b14212998f1a2d583816f",
+      "bytes": 15128,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f02-bed-vermilion.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f02-escort-flag-black.webp",
+      "remotePath": "assets/wjl-choice-f02-escort-flag-black.webp",
+      "sha256": "792ada09558d3fea114c80bbcb5f59ef76b24a40f01a36d4d5ce9f6c84738350",
+      "bytes": 18634,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f02-escort-flag-black.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f02-escort-flag-bronze.webp",
+      "remotePath": "assets/wjl-choice-f02-escort-flag-bronze.webp",
+      "sha256": "d19f2a197ee823f32caada56b92f917a81a14b9181f1e021cef41cc3b0e8c641",
+      "bytes": 30656,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f02-escort-flag-bronze.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f02-escort-flag-crimson.webp",
+      "remotePath": "assets/wjl-choice-f02-escort-flag-crimson.webp",
+      "sha256": "ad1d628301cda9223c099ba69357fc7046a01245a16ee5ef54ade75ec562cd02",
+      "bytes": 20914,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f02-escort-flag-crimson.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f03-qin-table-bamboo.webp",
+      "remotePath": "assets/wjl-choice-f03-qin-table-bamboo.webp",
+      "sha256": "9218334d45d7343e433acb849af4ad9e5286ec454e9207f10c0ae900f16717b8",
+      "bytes": 15224,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f03-qin-table-bamboo.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f03-qin-table-moonwhite.webp",
+      "remotePath": "assets/wjl-choice-f03-qin-table-moonwhite.webp",
+      "sha256": "58444b3bfeb771792ec874b8a95cfaffdefe7fc37a3df7c4a800c9db38e666bc",
+      "bytes": 16200,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f03-qin-table-moonwhite.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f03-qin-table-sandalwood.webp",
+      "remotePath": "assets/wjl-choice-f03-qin-table-sandalwood.webp",
+      "sha256": "eeb08a3450b1082d5aaa1ce3b0b1dc7f7451abe141722fa7b71d51862aa32216",
+      "bytes": 12588,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f03-qin-table-sandalwood.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f03-vanity-ebony.webp",
+      "remotePath": "assets/wjl-choice-f03-vanity-ebony.webp",
+      "sha256": "5477a01219ab33f83d62b8c50f20e7f98a5fd7400742c7e699c1cde87282220f",
+      "bytes": 26686,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f03-vanity-ebony.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f03-vanity-shellwhite.webp",
+      "remotePath": "assets/wjl-choice-f03-vanity-shellwhite.webp",
+      "sha256": "d96e4575240f54922fa986a2e365bdcc769eb024f60dbd200104ab26de33b3bc",
+      "bytes": 37530,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f03-vanity-shellwhite.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f03-vanity-vermilion.webp",
+      "remotePath": "assets/wjl-choice-f03-vanity-vermilion.webp",
+      "sha256": "37ccc410a8dec36aba810e83502a38fc2942301544d305b135623cc68674132d",
+      "bytes": 26048,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f03-vanity-vermilion.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f04-incense-burner-bronze.webp",
+      "remotePath": "assets/wjl-choice-f04-incense-burner-bronze.webp",
+      "sha256": "393a2fde32d33b2bfd02e0243db2f4a993bb70cd0a10e22177c4441b9ae06991",
+      "bytes": 29680,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f04-incense-burner-bronze.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f04-incense-burner-dark-bronze.webp",
+      "remotePath": "assets/wjl-choice-f04-incense-burner-dark-bronze.webp",
+      "sha256": "5e2b1eeb6043478f8904d7e7afe822e58e196f7ecc75e5eed2444dd9cfea42ff",
+      "bytes": 26422,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f04-incense-burner-dark-bronze.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f04-incense-burner-gilt.webp",
+      "remotePath": "assets/wjl-choice-f04-incense-burner-gilt.webp",
+      "sha256": "47377b3e606dbe1d1dfcb6f3b313e414b06b577c1c9305bc05232ccad1011ba2",
+      "bytes": 29412,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f04-incense-burner-gilt.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f04-meditation-couch-bamboo.webp",
+      "remotePath": "assets/wjl-choice-f04-meditation-couch-bamboo.webp",
+      "sha256": "4ae0a894aa7bf3050c0b0cdcd91d7f2303dbdece5da9dba5e6996ddfa3df4ee4",
+      "bytes": 14708,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f04-meditation-couch-bamboo.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f04-meditation-couch-indigo.webp",
+      "remotePath": "assets/wjl-choice-f04-meditation-couch-indigo.webp",
+      "sha256": "939d93200dbf809733cfafc1626a2452440fe9a128772773a8d3690971795139",
+      "bytes": 12160,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f04-meditation-couch-indigo.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f04-meditation-couch-offwhite.webp",
+      "remotePath": "assets/wjl-choice-f04-meditation-couch-offwhite.webp",
+      "sha256": "3646bdfed1c868c702f54a0c02fcd86efaf48fe0abced046a0bc1bc2cc794c6d",
+      "bytes": 16302,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f04-meditation-couch-offwhite.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f05-wall-scroll-ink-indigo.webp",
+      "remotePath": "assets/wjl-choice-f05-wall-scroll-ink-indigo.webp",
+      "sha256": "6b0d054887c2039234d73c16d56759f22a198323d20f545e3c9b105119a48a82",
+      "bytes": 35966,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f05-wall-scroll-ink-indigo.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f05-wall-scroll-ochre.webp",
+      "remotePath": "assets/wjl-choice-f05-wall-scroll-ochre.webp",
+      "sha256": "4382ba17bcf6051be580375bb3130e3762707865668353d57b0a949ad8f0a842",
+      "bytes": 33450,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f05-wall-scroll-ochre.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f05-wall-scroll-silk-yellow.webp",
+      "remotePath": "assets/wjl-choice-f05-wall-scroll-silk-yellow.webp",
+      "sha256": "9ebcb55ebd433430ad8d18863a4e73afe10187b43cd81136ff2ab27d1480987d",
+      "bytes": 33366,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f05-wall-scroll-silk-yellow.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f05-writing-desk-elm.webp",
+      "remotePath": "assets/wjl-choice-f05-writing-desk-elm.webp",
+      "sha256": "e2b94460e137f3cea6fe3ca5642f3e2d19fe6f1915fe516523b097764a123643",
+      "bytes": 23344,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f05-writing-desk-elm.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f05-writing-desk-huanghuali.webp",
+      "remotePath": "assets/wjl-choice-f05-writing-desk-huanghuali.webp",
+      "sha256": "e590067eaae18a23a56bfda35d49c296578ea4570c3c8e07c909388150832c56",
+      "bytes": 16438,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f05-writing-desk-huanghuali.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-choice-f05-writing-desk-zitan.webp",
+      "remotePath": "assets/wjl-choice-f05-writing-desk-zitan.webp",
+      "sha256": "9b933feeebfb83e74211eedba9844b719b35d3a53419cbf56092f1cef7bca0ca",
+      "bytes": 21248,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-choice-f05-writing-desk-zitan.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f01-eave-lantern.webp",
+      "remotePath": "assets/wjl-decor-f01-eave-lantern.webp",
+      "sha256": "c4d51aa1538000f6381ae05ba082e22de25de201d2f89802a85cd7a1a5a73426",
+      "bytes": 32952,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f01-eave-lantern.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f01-facade-woodwork-v2-alpha.webp",
+      "remotePath": "assets/wjl-decor-f01-facade-woodwork-v2-alpha.webp",
+      "sha256": "acbb552c2b2930ffa2248135756c570431de4dbde435335ab3d17329b4fe40f8",
+      "bytes": 23556,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f01-facade-woodwork-v2-alpha.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f01-function-plaque-no-outline.webp",
+      "remotePath": "assets/wjl-decor-f01-function-plaque-no-outline.webp",
+      "sha256": "618a583877fdda7560f67ff3a7a28c778301b737786f9d5c509f6ef8bedd224e",
+      "bytes": 12906,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f01-function-plaque-no-outline.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f01-main-plaque-no-outline.webp",
+      "remotePath": "assets/wjl-decor-f01-main-plaque-no-outline.webp",
+      "sha256": "1f83e3a890bb1e7230f28ea5112ce9d9fc4e358ae1de11db5d979a0a0274aac9",
+      "bytes": 11960,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f01-main-plaque-no-outline.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f01-river-guidepost.webp",
+      "remotePath": "assets/wjl-decor-f01-river-guidepost.webp",
+      "sha256": "f06d67497d854237fe9d7c56801971d42ff475a9e6c2b803b654dd8fa2d8b3ea",
+      "bytes": 23560,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f01-river-guidepost.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f01-welcome-banner.webp",
+      "remotePath": "assets/wjl-decor-f01-welcome-banner.webp",
+      "sha256": "6e3506fad60c18e5567f6aa422529a00b880f4829e8e0f9fbab18bdf589b29bf",
+      "bytes": 24158,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f01-welcome-banner.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f02-bed.webp",
+      "remotePath": "assets/wjl-decor-f02-bed.webp",
+      "sha256": "318327d138026256f47f6300e215e2be15e1fa33228f368075e32bb4109c09a7",
+      "bytes": 15400,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f02-bed.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f02-escort-flag.webp",
+      "remotePath": "assets/wjl-decor-f02-escort-flag.webp",
+      "sha256": "ae580e625cc10e8c5b36b50658ca74259c5d1367c4ec2e5a9be663895dfdb65f",
+      "bytes": 20594,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f02-escort-flag.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f02-guest-lantern-v2.webp",
+      "remotePath": "assets/wjl-decor-f02-guest-lantern-v2.webp",
+      "sha256": "4e38bdfe3f753f247e015bec55da9f76a3a3f43f857311956ab8992cac18f21c",
+      "bytes": 26126,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f02-guest-lantern-v2.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f02-weapon-rack.webp",
+      "remotePath": "assets/wjl-decor-f02-weapon-rack.webp",
+      "sha256": "56166a7bfc708162f2878a8d00545727e735a1d7f77211e6f4aad631c4a8f3ac",
+      "bytes": 46814,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f02-weapon-rack.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f03-qin-table.webp",
+      "remotePath": "assets/wjl-decor-f03-qin-table.webp",
+      "sha256": "be3ba4d9338649bd8734f7295e41b055e879d5afa0b79c6ad318d00ebd8e7a4e",
+      "bytes": 14484,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f03-qin-table.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f03-vanity.webp",
+      "remotePath": "assets/wjl-decor-f03-vanity.webp",
+      "sha256": "decbd9d03a9d3a17642f0f1c5d0235ec6b86c9fa92f3c41258aef6470cc63c1b",
+      "bytes": 33158,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f03-vanity.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f03-wall-guqin.webp",
+      "remotePath": "assets/wjl-decor-f03-wall-guqin.webp",
+      "sha256": "730b4627ed27d47fdff448ba4ab6e0e5cb01abb65a097f050acd619c24de52cc",
+      "bytes": 26892,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f03-wall-guqin.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f04-incense-burner.webp",
+      "remotePath": "assets/wjl-decor-f04-incense-burner.webp",
+      "sha256": "5da8510da76a808a2716c067247dabba7cbe2fb19502225a78620dd8428ad299",
+      "bytes": 31372,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f04-incense-burner.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f04-medicine-box.webp",
+      "remotePath": "assets/wjl-decor-f04-medicine-box.webp",
+      "sha256": "7076ada2447ec8db0268b96f158737d085419f194f1e310d2d86282cc9ee1836",
+      "bytes": 31308,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f04-medicine-box.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f04-medicine-cabinet.webp",
+      "remotePath": "assets/wjl-decor-f04-medicine-cabinet.webp",
+      "sha256": "285d1cc9f680d6ef712744c493a3df6f26efe7b418d014b84e0a77f74d9c9818",
+      "bytes": 23702,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f04-medicine-cabinet.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f04-meditation-couch.webp",
+      "remotePath": "assets/wjl-decor-f04-meditation-couch.webp",
+      "sha256": "c6641b36e71e76f1c7ac9ad84e2d2db67569f45eb06199b68370c45bcc8900b9",
+      "bytes": 15808,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f04-meditation-couch.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f05-bookshelf.webp",
+      "remotePath": "assets/wjl-decor-f05-bookshelf.webp",
+      "sha256": "24cb4e63e0c5c928ead1de818499961a1aae4024354d7687599b5d1c9b09b40b",
+      "bytes": 44930,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f05-bookshelf.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f05-scholar-tools.webp",
+      "remotePath": "assets/wjl-decor-f05-scholar-tools.webp",
+      "sha256": "5b7601dd05f0cadb768aaef5ec5f37bb89c813098b5f2d0f8f09c9665a397f9e",
+      "bytes": 51044,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f05-scholar-tools.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f05-wall-scroll-v2-text-alpha.webp",
+      "remotePath": "assets/wjl-decor-f05-wall-scroll-v2-text-alpha.webp",
+      "sha256": "3e0886b788abe50c6ef90b33d94168ce1e405cc4fbcaff982f493fcb7b220b5d",
+      "bytes": 28240,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f05-wall-scroll-v2-text-alpha.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-decor-f05-writing-desk.webp",
+      "remotePath": "assets/wjl-decor-f05-writing-desk.webp",
+      "sha256": "536a62c1db98dab307b2192e90332c9644082f424376752434cc1db374dd5269",
+      "bytes": 17166,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-decor-f05-writing-desk.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-floor-01.webp",
+      "remotePath": "assets/wjl-floor-01.webp",
+      "sha256": "a18be7ac79a76520e8aae45f871f229a6f63ee811ef589d5db55d7fa4420ab06",
+      "bytes": 26002,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-floor-01.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-floor-02.webp",
+      "remotePath": "assets/wjl-floor-02.webp",
+      "sha256": "a3b76e0ee2115efd256ae5b0bbfe7834777a9a8aa4636bf0df2a577bf69b7019",
+      "bytes": 23008,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-floor-02.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-floor-03.webp",
+      "remotePath": "assets/wjl-floor-03.webp",
+      "sha256": "c64015907778cf81b691067f868d88e961e9b89445f13e78ac61a2da7774c770",
+      "bytes": 22744,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-floor-03.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-floor-04.webp",
+      "remotePath": "assets/wjl-floor-04.webp",
+      "sha256": "9b29470b1c53ed103fa0ae20c6d8c18c7d0bc50baa66d8877a8b03dabdc6d803",
+      "bytes": 22130,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-floor-04.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-floor-05.webp",
+      "remotePath": "assets/wjl-floor-05.webp",
+      "sha256": "a3b76e0ee2115efd256ae5b0bbfe7834777a9a8aa4636bf0df2a577bf69b7019",
+      "bytes": 23008,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-floor-05.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-floor-pending-empty-base-v1.webp",
+      "remotePath": "assets/wjl-floor-pending-empty-base-v1.webp",
+      "sha256": "8c7e128897486dd6830552c12852be21f5a253c06ac78daef166ebf64c5d9042",
+      "bytes": 10230,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-floor-pending-empty-base-v1.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-fx-build-dust.webp",
+      "remotePath": "assets/wjl-fx-build-dust.webp",
+      "sha256": "f93a5476090c9b4256996165f59a7e1843ad15ce68bd096a3ef4ecd9206e3e7f",
+      "bytes": 11532,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-fx-build-dust.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-pending-construction-animation-atlas-v1.webp",
+      "remotePath": "assets/wjl-pending-construction-animation-atlas-v1.webp",
+      "sha256": "8cbc775764122527f2dd8aff6adb5d5d37debd90e591d6f5edeaac8fea9f4d0c",
+      "bytes": 2321944,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-pending-construction-animation-atlas-v1.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-resident-gu-qing-shu.webp",
+      "remotePath": "assets/wjl-resident-gu-qing-shu.webp",
+      "sha256": "2827c6842a80c2a1e179b54fff3b392ef6505eb88fb06dd7546919f67efed416",
+      "bytes": 44536,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-resident-gu-qing-shu.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-resident-qing-xu.webp",
+      "remotePath": "assets/wjl-resident-qing-xu.webp",
+      "sha256": "703833bf3ef7949904bd05795ea8f34bf9b31b1e58061bdbaf349c0674749079",
+      "bytes": 47434,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-resident-qing-xu.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-resident-qiu-tang.webp",
+      "remotePath": "assets/wjl-resident-qiu-tang.webp",
+      "sha256": "33c0e62c3fc7fe471b2f4e57001019ea2aa06046372bfb7c419f0add126503d3",
+      "bytes": 36506,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-resident-qiu-tang.webp"
+    },
+    {
+      "path": "minigame-assets/wjl-resident-shen-yan-shan.webp",
+      "remotePath": "assets/wjl-resident-shen-yan-shan.webp",
+      "sha256": "d2938209c16604a44628c1f0f770a1cbd01444ce250f0de6f9759a97a4391d4f",
+      "bytes": 51738,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/wjl-resident-shen-yan-shan.webp"
+    }
+  ]
+}
