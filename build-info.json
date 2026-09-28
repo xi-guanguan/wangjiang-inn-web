@@ -1,0 +1,12 @@
+{
+  "product": "wangjiang-inn-web",
+  "revision": "inn-h5-viewport-20260928",
+  "sourceCommit": "c611edb89d880c49c4a6053a956b32f96b8e9a9a",
+  "builtAt": "2026-09-28T16:28:00+08:00",
+  "viewport": {
+    "logicalWidth": 390,
+    "logicalHeight": 844,
+    "usesVisualViewport": true,
+    "usesCssSafeArea": true
+  }
+}

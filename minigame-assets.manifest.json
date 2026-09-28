@@ -10,6 +10,14 @@
       "subpackagePath": "art/minigame-assets/a-qing-order-chibi.png"
     },
     {
+      "path": "minigame-assets/audio-bgm-main-linggu-xifan.mp3",
+      "remotePath": "assets/audio-bgm-main-linggu-xifan.mp3",
+      "sha256": "73e914018f32c524b3c5989ef6d1e44ce311adc391a1adf42fc5b5646d1a1c2c",
+      "bytes": 3578164,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/audio-bgm-main-linggu-xifan.mp3"
+    },
+    {
       "path": "minigame-assets/audio-build-complete.wav",
       "remotePath": "assets/audio-build-complete.wav",
       "sha256": "8cd16d57afc0f4038235ba62c7d5f21003c58ac2e579ad37217d282d00f7cc4c",
@@ -66,6 +74,104 @@
       "firstPackage": true
     },
     {
+      "path": "minigame-assets/audio-merge-l02.wav",
+      "remotePath": "assets/audio-merge-l02.wav",
+      "sha256": "89c371b41189a671e4d47f370632bc9e69c122fc8e76a721757e8b7223c5b79f",
+      "bytes": 22604,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-merge-l03.wav",
+      "remotePath": "assets/audio-merge-l03.wav",
+      "sha256": "0e1dcd77c59f0d68bffd2c90c8d10500f36847ccabb30c1bbc7e1f12567407aa",
+      "bytes": 22604,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-merge-l04.wav",
+      "remotePath": "assets/audio-merge-l04.wav",
+      "sha256": "4c9dbf565406dc6861d83405ccd5738997bea2e5901a91397799dc3beb773ae4",
+      "bytes": 22604,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-merge-l05.wav",
+      "remotePath": "assets/audio-merge-l05.wav",
+      "sha256": "4f069ff2b82434f8dff823f920f17ea8e2054b82958e52a885f297bf86a3d82d",
+      "bytes": 22604,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-merge-l06.wav",
+      "remotePath": "assets/audio-merge-l06.wav",
+      "sha256": "f6edf649e1d04657479d8144ea27b07e96c9937561cb2c630f5ae3b5207f48ec",
+      "bytes": 22604,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-merge-l07.wav",
+      "remotePath": "assets/audio-merge-l07.wav",
+      "sha256": "72290239e809aeb215abead785351cebec326f90c79fbee2710cd450d28d86f3",
+      "bytes": 22604,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-merge-l08.wav",
+      "remotePath": "assets/audio-merge-l08.wav",
+      "sha256": "a99a784232b456e5b564147a6ef3f29746c16479606342f53a94a6ae589f864a",
+      "bytes": 22604,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-merge-l09.wav",
+      "remotePath": "assets/audio-merge-l09.wav",
+      "sha256": "522dba2f40433f07b5268368909e2edce7bca8562e046c67936e44c84c6876f2",
+      "bytes": 22604,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-merge-l10.wav",
+      "remotePath": "assets/audio-merge-l10.wav",
+      "sha256": "06a8dffa1a29b34d1d1530cfaa5bea83252088003f059ad278b365f2d6af8b74",
+      "bytes": 22604,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-merge-l11.wav",
+      "remotePath": "assets/audio-merge-l11.wav",
+      "sha256": "476146ff49be0a39d83f2d1e6f70aeb65276a0fff889375f5af509063385870e",
+      "bytes": 22604,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-merge-l12.wav",
+      "remotePath": "assets/audio-merge-l12.wav",
+      "sha256": "d31d84ade3e757a4bc0d7f6bbc66e0f1da9f5d880edcd05609241e5720b43808",
+      "bytes": 22604,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-merge-l13.wav",
+      "remotePath": "assets/audio-merge-l13.wav",
+      "sha256": "8feae3b51cc3e263fb533d9f6c67b8eabecb4d085b13d0ea9ecf3066d3ad3af9",
+      "bytes": 22604,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-merge-l14.wav",
+      "remotePath": "assets/audio-merge-l14.wav",
+      "sha256": "9d906f848be2c5950541633c491aae56c66babdbc05dabc7c5ba3aac62b12213",
+      "bytes": 22604,
+      "firstPackage": true
+    },
+    {
+      "path": "minigame-assets/audio-merge-l15.wav",
+      "remotePath": "assets/audio-merge-l15.wav",
+      "sha256": "3b460159f6b37f2571d55935eea7f4405254e4e98e1c0131f99e0b7caab3af3d",
+      "bytes": 22604,
+      "firstPackage": true
+    },
+    {
       "path": "minigame-assets/audio-merge.wav",
       "remotePath": "assets/audio-merge.wav",
       "sha256": "73db21306ce6b98a6639226825a3b95711b895ccc1b71bc96972bd8b33163af8",
@@ -78,14 +184,6 @@
       "sha256": "de02a94e400bf431315403af507a0fca81a45d15ac30a736551d11d9fe43fc99",
       "bytes": 13274,
       "firstPackage": true
-    },
-    {
-      "path": "minigame-assets/aunt-luo-order.png",
-      "remotePath": "assets/aunt-luo-order.png",
-      "sha256": "61280caea2586c91299f84ad8cb0750abf4c396bc57cb69451ae59eea9572f60",
-      "bytes": 104537,
-      "firstPackage": false,
-      "subpackagePath": "art/minigame-assets/aunt-luo-order.png"
     },
     {
       "path": "minigame-assets/button-chore-action-bluekey-v1.png",
@@ -110,6 +208,70 @@
       "bytes": 58514,
       "firstPackage": false,
       "subpackagePath": "art/minigame-assets/button-continue-dialogue-wjl-ref.png"
+    },
+    {
+      "path": "minigame-assets/character.a-shun.order.idle.r5.png",
+      "remotePath": "assets/character.a-shun.order.idle.r5.png",
+      "sha256": "efa3faf7e08ef1fa5d5f8b65d0dd95fff7058ae4032d00593d3855b135ee2f20",
+      "bytes": 84691,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/character.a-shun.order.idle.r5.png"
+    },
+    {
+      "path": "minigame-assets/character.hong-shen.order.idle.r1.png",
+      "remotePath": "assets/character.hong-shen.order.idle.r1.png",
+      "sha256": "07c4751afc1464792ab2abb1076e5ab1a292e267b2e23f4dbe08fa7313598b22",
+      "bytes": 81338,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/character.hong-shen.order.idle.r1.png"
+    },
+    {
+      "path": "minigame-assets/character.hu-si-lang.order.idle.r5.png",
+      "remotePath": "assets/character.hu-si-lang.order.idle.r5.png",
+      "sha256": "e46bdc5012c8412454cd4d5627564a52b014bc8a97c69a253b04120057a61ba6",
+      "bytes": 75133,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/character.hu-si-lang.order.idle.r5.png"
+    },
+    {
+      "path": "minigame-assets/character.ji-sheng.order.idle.r2.png",
+      "remotePath": "assets/character.ji-sheng.order.idle.r2.png",
+      "sha256": "27bbb4e5fb9f2cfcb057ea04aa88d96bd308b05e42f768b5ea9c760e3c5e7169",
+      "bytes": 77289,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/character.ji-sheng.order.idle.r2.png"
+    },
+    {
+      "path": "minigame-assets/character.jiang-bo.order.idle.r1.png",
+      "remotePath": "assets/character.jiang-bo.order.idle.r1.png",
+      "sha256": "af856289584825e673c3f8ac010832a30539992bbf6588b2a69fb12a7742f7e5",
+      "bytes": 85255,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/character.jiang-bo.order.idle.r1.png"
+    },
+    {
+      "path": "minigame-assets/character.luo-niang-zi.order.idle.r2.png",
+      "remotePath": "assets/character.luo-niang-zi.order.idle.r2.png",
+      "sha256": "896665b49cdbcc31cb71bb488c5007395ae6e2ed617ea39fdd8d2ba1482d306f",
+      "bytes": 76241,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/character.luo-niang-zi.order.idle.r2.png"
+    },
+    {
+      "path": "minigame-assets/character.tang-zhang-gui.order.idle.r1.png",
+      "remotePath": "assets/character.tang-zhang-gui.order.idle.r1.png",
+      "sha256": "63e56ea88c4cb6a308f6624259600ec11cb98940b8611cdbb97029f57d515c23",
+      "bytes": 73275,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/character.tang-zhang-gui.order.idle.r1.png"
+    },
+    {
+      "path": "minigame-assets/character.xiao-tao.order.idle.r1.png",
+      "remotePath": "assets/character.xiao-tao.order.idle.r1.png",
+      "sha256": "2163ffa2b406507a0cbb66c75126247512b1e2b27835d355eb6f4951e939cabc",
+      "bytes": 74959,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/character.xiao-tao.order.idle.r1.png"
     },
     {
       "path": "minigame-assets/chest-energy-1.png",
@@ -150,22 +312,6 @@
       "bytes": 292025,
       "firstPackage": false,
       "subpackagePath": "art/minigame-assets/chest-red-2.png"
-    },
-    {
-      "path": "minigame-assets/danfang-door-left.png",
-      "remotePath": "assets/danfang-door-left.png",
-      "sha256": "0db89df18cb947c704fdffc09483d976eeae3291028c0a5e43f272d697b0966e",
-      "bytes": 1216595,
-      "firstPackage": false,
-      "subpackagePath": "art/minigame-assets/danfang-door-left.png"
-    },
-    {
-      "path": "minigame-assets/danfang-door-right.png",
-      "remotePath": "assets/danfang-door-right.png",
-      "sha256": "ac20e6ab0fa73f861bb3ecdb9541e45ed2ae38da0bdaf81120cbd74c4ec7081f",
-      "bytes": 1314155,
-      "firstPackage": false,
-      "subpackagePath": "art/minigame-assets/danfang-door-right.png"
     },
     {
       "path": "minigame-assets/inn-hinged-door-pair.png",
@@ -1218,10 +1364,42 @@
     {
       "path": "minigame-assets/nameplate-dialogue-wjl-ref.png",
       "remotePath": "assets/nameplate-dialogue-wjl-ref.png",
-      "sha256": "83ddd7332ec3b7b36c9725e4f8481a62729226ac4a35218ccc605370b0ac0d90",
-      "bytes": 56436,
+      "sha256": "ec8c5221bfcc2e50fc0670b350919986a8f202309ae3b92806c22a3ec7ccf797",
+      "bytes": 100819,
       "firstPackage": false,
       "subpackagePath": "art/minigame-assets/nameplate-dialogue-wjl-ref.png"
+    },
+    {
+      "path": "minigame-assets/newcomer-picnic-basket.png",
+      "remotePath": "assets/newcomer-picnic-basket.png",
+      "sha256": "aa44c6c2ab38f7b9d531e6a375560a825ee4f2944a600dd65f095f93ca59edbb",
+      "bytes": 47765,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/newcomer-picnic-basket.png"
+    },
+    {
+      "path": "minigame-assets/newcomer-smart-chest.png",
+      "remotePath": "assets/newcomer-smart-chest.png",
+      "sha256": "53a50f19974989b0910f26ec3bf46c6b87cff237fc7a1eb3beaea9a4e302dcc7",
+      "bytes": 4642,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/newcomer-smart-chest.png"
+    },
+    {
+      "path": "minigame-assets/newcomer-three-star-card.png",
+      "remotePath": "assets/newcomer-three-star-card.png",
+      "sha256": "700a650744471b1f683c6facb7c4ab5f8a06e2983041864ea44d60d6912fd4c7",
+      "bytes": 6623,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/newcomer-three-star-card.png"
+    },
+    {
+      "path": "minigame-assets/newcomer-two-star-card.png",
+      "remotePath": "assets/newcomer-two-star-card.png",
+      "sha256": "daf7169cf9d4795323d290f4f575f69675ab9ae591593352be787e9b66e1897f",
+      "bytes": 5981,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/newcomer-two-star-card.png"
     },
     {
       "path": "minigame-assets/panel-chore-modal-bluekey-v1.png",
@@ -1234,8 +1412,8 @@
     {
       "path": "minigame-assets/panel-dialogue-wjl-ref.png",
       "remotePath": "assets/panel-dialogue-wjl-ref.png",
-      "sha256": "a752640b59e43dbf53c7677b6534642458aec05fe92201398651e12ad2fdd6ec",
-      "bytes": 288446,
+      "sha256": "3efabb8236c8193240daad8663d97c3b35b2625629fba27d5a3bb610bd431bea",
+      "bytes": 357502,
       "firstPackage": false,
       "subpackagePath": "art/minigame-assets/panel-dialogue-wjl-ref.png"
     },
@@ -1720,6 +1898,22 @@
       "subpackagePath": "art/minigame-assets/ui-icon-warehouse.png"
     },
     {
+      "path": "minigame-assets/ui-neighborhood-reputation-ruyi.png",
+      "remotePath": "assets/ui-neighborhood-reputation-ruyi.png",
+      "sha256": "40ef32ce14fdee550ec6aa58b1c355960365b01255c75e1bef710cec09f79786",
+      "bytes": 62727,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/ui-neighborhood-reputation-ruyi.png"
+    },
+    {
+      "path": "minigame-assets/ui-neighborhood-reputation-scene.png",
+      "remotePath": "assets/ui-neighborhood-reputation-scene.png",
+      "sha256": "eb92d8fdfd00b3fe5271d965f8e5772aa9fadf6eaa650b2445357e96deac5b46",
+      "bytes": 1201063,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/ui-neighborhood-reputation-scene.png"
+    },
+    {
       "path": "minigame-assets/ui-order-scroll.png",
       "remotePath": "assets/ui-order-scroll.png",
       "sha256": "88f4d1baf29f1854d0be9d235cd6f5c728647a7d41a9e71fc748960f36ad0c70",
@@ -1736,6 +1930,14 @@
       "subpackagePath": "art/minigame-assets/ui-reward-chain-seal.png"
     },
     {
+      "path": "minigame-assets/ui-reward-experience.png",
+      "remotePath": "assets/ui-reward-experience.png",
+      "sha256": "3e334063a81ac6549725d963ca9527079b504d8b0726c039fdbb91ccfc5c2efb",
+      "bytes": 140243,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/ui-reward-experience.png"
+    },
+    {
       "path": "minigame-assets/ui-switch-to-garden.png",
       "remotePath": "assets/ui-switch-to-garden.png",
       "sha256": "790a02837dbd0f26a229c8c09d191436b9d2da83786139b788a84f3633dbd784",
@@ -1750,6 +1952,14 @@
       "bytes": 268765,
       "firstPackage": false,
       "subpackagePath": "art/minigame-assets/ui-switch-to-shop.png"
+    },
+    {
+      "path": "minigame-assets/ui-tutorial-pointer-tap-right-up.png",
+      "remotePath": "assets/ui-tutorial-pointer-tap-right-up.png",
+      "sha256": "f9f3b4d56097511f8c6b1b62c4a2bbb1f6873700b8d05d72532b75b4e3328fc2",
+      "bytes": 640344,
+      "firstPackage": false,
+      "subpackagePath": "art/minigame-assets/ui-tutorial-pointer-tap-right-up.png"
     },
     {
       "path": "minigame-assets/warehouse-board-open.png",
@@ -1830,14 +2040,6 @@
       "bytes": 10201,
       "firstPackage": false,
       "subpackagePath": "art/minigame-assets/warehouse-web-w7a.png"
-    },
-    {
-      "path": "minigame-assets/wen-xiansheng-order.png",
-      "remotePath": "assets/wen-xiansheng-order.png",
-      "sha256": "6462a353f3b8dbc7be2cf4c2872c73d3922fa5bcfc3f766e180450199d7dbdd2",
-      "bytes": 30618,
-      "firstPackage": false,
-      "subpackagePath": "art/minigame-assets/wen-xiansheng-order.png"
     },
     {
       "path": "minigame-assets/wjl-background-main.webp",
